@@ -18,6 +18,8 @@
 ## Input
 - [Business Case][buscase]
 
+## Methods
+
 ## Outcome
 - Feasibility of the [Business Case][buscase] has been established
 - If feasible, then 
@@ -32,7 +34,7 @@ During Elaboration, the focus is on ensuring that all the design choices have be
 ## Decision
 Based on the findings, the Product Development Researcher makes a recommendation to the Product Accountable. The Product Accountable decides whether to include the proposed product on the product development plan.
 
-[<img src="/images/lup logo s.png" alt="drawing" class="center" width="338"/>](/Stages/overview.md)
+[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Stages/overview.md)
 
 
 [buscase]: /Artefacts/bus-case.md

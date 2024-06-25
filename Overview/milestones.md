@@ -14,6 +14,6 @@ The [LeanUP](/Overview/leanup.md) recognizes 5 key milestones. A milestone marks
 | 4 | [Prototype Review](/Artefacts/pro-review.md) | |
 | 5 | Initial Release | The Initial Release is not the end of a stage, but the start of the value form your development efforts streaming into your organization. It is generally time to celebrate your achievements, look back at the bumpy road, take lessons, and look forward to the future potential |
 
-[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="338"/>](/Overview/leanup.md)
+[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Overview/leanup.md)
 
 *License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)

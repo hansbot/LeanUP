@@ -5,6 +5,6 @@
 > Last edit : 
 
 
-[<img src="/images/lup logo s.png" alt="drawing" class="center" width="338"/>](/Stages/overview.md)
+[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Stages/overview.md)
 
 *License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)

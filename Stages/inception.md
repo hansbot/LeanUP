@@ -30,7 +30,7 @@ During Inception, the focus is on ensuring that the product is technically feasi
 ## Decision
 Based on the findings, the Product Architect makes a recommendation to the Product Accountable. The Product Accountable decides whether to release the budget for the next phase, and to assign the required resources.
 
-[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="338"/>](/Stages/overview.md)
+[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Stages/overview.md)
 
 *License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 

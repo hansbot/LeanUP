@@ -17,7 +17,7 @@ Anyone can raise a risk, but the risk is only managed when an owner is appointed
 As summary, the following template may be used.
 > As a risk owner, I am no longer confident to my commitment of ..., because of ..., which might impact budget/timelines/security/feasibility ..., unless ...
 
-[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="338"/>](/Artefacts/overview.md)
+[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Artefacts/overview.md)
 
 *License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 

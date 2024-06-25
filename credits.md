@@ -8,7 +8,7 @@ I've been inspired by many people, visiting events, reading books and watching v
 
 ## Books
 | Title | Authors | 
-| --- | --- |
+| ----- | ------- |
 | Enterprise Integration Patterns | Gregor Hohpe & Bobby Woolf |
 | Principles of Web API Design | James Higginbotham |
 | The Design of Web APIs | Arnaud Lauret |
@@ -35,7 +35,7 @@ And many more.
 
 ## Thought Leaders
 | Name | Work |
-| --- | --- |
+| ---- | ---- |
 | Gregor Hohpe | Enterprise Integration Architecture Talks and [Publications](https://architectelevator.com), Integration Design Language |
 | Roy Fielding | The godfather of the [ReST API Style](/References/rest.md), minted HATEOAS |
 | Paul Freemantle | Co-founder of WSO2; Co-author of [Cell-Based Architecture](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md) |
@@ -54,6 +54,6 @@ And many more.
 | Jan de Brieder | Who gave me the brightest introduction to IT Architecture I could have wished for |
 | Werner Vogels | Always thought provoking and one step ahead. Werner got me excited for cloud computing when AWS were only a scaleup |
 
-[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="338"/>](/Overview/leanup.md)
+[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Overview/leanup.md)
 
 *License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)

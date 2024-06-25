@@ -2,7 +2,7 @@
 
 > First post : 24 June 2024
 
-> Last edit : 
+> Last edit : 25 June 2024
 
 Information Security and CyberSecurity have become recurring topics on the business planning calendar. In part, driven by government regulation, but also because 'the digital' is more and more of strategic value. CIA is the common acronym embodying the entire scope of digital security: Fully Protect Confidentiality and Data Integrity, and Guarantee Availability whenever you need your digital asset.
 
@@ -14,7 +14,7 @@ Many believe that a solid classification of information assets and categories is
 
 Few things are more disappointing then losing a good [value opporunity](/Artefacts/val-oppo.md) over insufficient security clearance. Moreover, contrary to common belief, there is little to gain by lowering your security standards for a subset of your APIs. Leaving aside the question how you can make something only a little bit secure, there are in practice little or no downsides to design for security. It's become trivial to encrypt data in transit. Similarly, encryption or your data at rest is no longer rocket science. Observability features facilitate a solid security incident and event monitoring practice. Consequently, I highly recommend creating a single list of controls and apply them to all your APIs.
 
-> As soon as API security has become an integral part of your way of working, a set routine, it doesn't hold you back, rather it accellerates your delivery.
+> As soon as API security has become an integral part of your way of working, a set routine, it doesn't hold you back, rather it accellerates your delivery journey.
 
 This is not to say that all APIs should be made public. On the contrary. Managing access control is an essential part of the [API Management capability](/Capabilities/management.md). That's the proper place to manage access. When your API has no presumed audience engineered in, it is generally usable, so it brings a high potential value.
 
@@ -74,13 +74,13 @@ Here's a list of security principles for inspiration.
 | --- | --- | --- | --- |
 | 1. | Least Privilege | People accessing digital assets are a security risk. No one should be able to access anything they are not authorized to. Keeping the list of authorizations to the minimum set of privilleges necessary to fulfil their job provides an additional control to limit security risks. | Micromanaging access can easily become a bit of a burden. Think of attribute-level authorization in a table, or even chapter-level authorization in a document. Especially when flux is high, a pragmatic implementation may be required. |
 | 2. | Hands-off Computing | People, be it engineers, administrators, or auditors, must not be able to acccess your runtime workloads. Containers must be immutable to keep data secure and operations reliable | A significant investment in Deployment Automation, Observability, and Security Incident and Event Management is required to help inspect and analyze workloads. Representative pre-production environments with less strict controls also may aid in analysis. Careful incident respons planning required |
-| 3. | Automated Deployments | Predictable and reproducable securite measures built in. No human intervention with automatically generated keys and certificates. | Additional effort upfront. Building security controls in the scripts. Investment in automatic security auditing. |
-| 4. | Data Encryption | |
-| 5. | Security as Code | |
-| 6. | Container Orchestration | |
-| 7. | Full Auditability | |
+| 3. | Automated Deployments | Predictable and reproducable securite measures built in. No human intervention with automatically generated keys and certificates. | Additional effort upfront.  |
+| 4. | Data Encryption | There's simply no excuse not to encrypt your data, either in transit or at rest. Period. | Protecting access to your keys is a vital part of your data encryption strategy. Losing a key means losing access to your own data. Mature Key Management Technologies to help prevent both have become common. Whenever possible, generate, store an use your keys without any human access |
+| 5. | Security as Code | Security must be a key ingredient in your platform development and software development life cycles. Having security built into the provisioning, delivery and configuration scripts unleashes the power of version and quality control to your security implementation. | Building security controls in the scripts. Investment in security auditing tooling. Training your devops engineers to master platform and software security practices. |
+| 6. | Container Orchestration | Containers bring isolation of workloads running on shared compute infrastructure. Container orchestration adds simple clustering, access control, and self-healing capabilities to your digital products. | Building a platform engineering team or adopting a Platform-as-a-service |
+| 7. | Full Auditability | Much has been written about an Information Security Management System. This is a –mostly distributed– system designed to capture all the information necessary to prove that you are continuously in control of your information security. This includes information from your Continuous Delivery Funnel, your Control Plane and your Data Plane. | Investing in a Robust Information Security Management System with suitable retention policies and controled access. Adding a great auditor experience is a bonus. Remember that the data must be demonstrably persistent – no loss of security data is permitted, let alone alterations. |
 
-[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="338"/>](/Artefacts/overview.md)
+[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Artefacts/overview.md)
 
 *License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 

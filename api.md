@@ -18,6 +18,6 @@ There you have it. Teams can have full autonomy within the bounds set by the int
 
 APIs done right, in other words, allow you full control over your digital business. That's the core thesis behind [LeanUP](/Overview/leanup.md). And thats why API Design is the core competence in the process.
 
-[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="338"/>](/Overview/leanup.md)
+[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Overview/leanup.md)
 
 *License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)

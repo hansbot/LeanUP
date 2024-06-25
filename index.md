@@ -23,7 +23,7 @@ That’s why I am proposing the Lean Unified Process, or [LeanUP](/Overview/lean
 ## Contents
 List of [References](/References/links.md)
 
-[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="338"/>](/Overview/leanup.md)
+[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Overview/leanup.md)
 
 *License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 

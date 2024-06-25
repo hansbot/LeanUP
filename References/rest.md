@@ -15,6 +15,6 @@ Here are the core principles he proposed.
 
 The moniker 'Hypertext as the Engine of Application State', or its acronym HATEOAS, is sometimes used as an overarching principle.
 
-[<img src="/images/lup logo s.png" alt="drawing" class="center" width="338"/>](/Overview/leanup.md)
+[<img src="/images/lup logo s.png" alt="drawing" class="center" width="150"/>](/Overview/leanup.md)
 
 *License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)

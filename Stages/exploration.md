@@ -4,6 +4,8 @@
 
 > Last edit : 21 June 2024
 
+The Exploration Phase is often quite informal, simply because no product team has been established yet. Commonly, workshops are organized to mobilize hand-picked key persons and discuss the [Value Opportunity](/Artefacts/val-oppo.md) at hand.
+
 ## Ownership
 - Accountable : Product Development Executive / Product Manager / Product Owner
 - Responsible : Product Development Researcher
@@ -25,7 +27,6 @@ Additionally, Creating [Job Stories](https://www.intercom.com/blog/using-job-sto
 | **When** | Any Situation Someone's in |
 | **I Want To** | Motivation for Action |
 | **so I can** | Envisioned Outcome |
-
 
 Also, creating a product positioning statement, a tried and proven technique from the Rational Unified Process, helps to outline the opportunity at hand. As an example:
 
@@ -51,7 +52,7 @@ During Exploration, the focus is on ensuring that all the resources required to 
 ## Decision
 Based on the findings, the Product Development Researcher makes a recommendation to the Product Accountable. The Product Accountable decides whether to include the proposed product on the product development plan.
 
-[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="338"/>](/Stages/overview.md)
+[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Stages/overview.md)
 
 [oppo]: /Artefacts/val-oppo.md
 [valcase]: /Stages/val-case.md

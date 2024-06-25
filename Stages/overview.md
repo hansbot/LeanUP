@@ -11,6 +11,6 @@ The [LeanUP](/Overview/leanup.md) defines these four stages.
 3. [Elaboration](/Stages/elaboration.md)
 4. [Delivery](/Stages/delivery.md)
 
-[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="338"/>](/Overview/leanup.md)
+[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Overview/leanup.md)
 
 *License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)

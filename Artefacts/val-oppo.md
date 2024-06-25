@@ -32,7 +32,7 @@ It is also recommended to exclude questions that are a distraction for this case
 
 The [Value Case][valcase] artefact has a list of typical questions to consider.
 
-[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="338"/>](/Artefacts/overview.md)
+[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Artefacts/overview.md)
 
 *License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 

@@ -15,6 +15,7 @@
 - [Capabilities](/Capabilities/overview.md)
 - [Credits](/credits.md)
 ## D
+- [Daily compliance](/Artefacts/dailyCompliance.md)
 - [Delivery](/Stages/delivery.md)
 - [Design Capability](/Capabilities/design.md)
 - [Development Case](/Artefacts/dev-case.md)
@@ -36,6 +37,7 @@
 ## M
 - [Mananagement Capabiliy](/Capabilities/management.md)
 - [Model Overview](/Overview/leanup.md)
+- [Monthly compliance](/Artefacts/monthlyCompliance.md)
 ## N
 ## O
 - Model [Overview](/Overview/leanup.md)
@@ -48,7 +50,7 @@
 - [References](/References/links.md)
 - [Release Review](/Artefacts/rel-review)
 - [ReST API Style](/References/rest.md)
-- [Risklist](/Artefacts/risklist.md)
+- [Risk List](/Artefacts/risklist.md)
 ## S
 - [Security Capability](/Capabilities/security.md)
 - [Security Plan](/Artefacts/sec-plan)
@@ -59,6 +61,6 @@
 [Value Case](/Artefacts/val-case.md)
 ## WXYZ
 
-[<img src="/images/lup logo s.png" alt="drawing" class="center" width="338"/>](/Overview/leanup.md)
+[<img src="/images/lup logo s.png" alt="drawing" class="center" width="150"/>](/Overview/leanup.md)
 
 *License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
