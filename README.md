@@ -16,7 +16,7 @@ Here's [why](/index.md) the Guide got established
 Hans J. Bot
 
 ## License
- [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+> [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
 ## Credits
 [Credits](/credits.md)
