@@ -4,7 +4,7 @@
 
 > Last edit : 21 June 2024
 
-A Risk List is a tool to manage the product development risks. It must be updated at every stage change, at a minimum. Usually, it's a simple table, used to track the progress of risk mitigation.
+A [Risk List][self] is a tool to manage the product development risks. It must be updated at every stage change, at a minimum. Usually, it's a simple table, used to track the progress of risk mitigation. Do not confuse it with the information security risks. When well-managed, those don't turn up on the product development [Risk List][self].
 
 Do refrain from nominating every issue as a risk. A risk is a threat to deliver a committed result that is in need of intervention of a principle to remediate. That's it. Once remediated, or simply accepted by the principle, the risks gets archived. 
 
@@ -21,3 +21,6 @@ As summary, the following template may be used.
 
 *License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
+
+
+[self]: /Artefacts/risklist.md

@@ -7,7 +7,7 @@
 The [LeanUP](/Overview/leanup.md) defines these four stages.
 
 1. [Exploration](/Stages/exploration.md)
-2. [Inception](/Stages/inception.md)
+2. [Discovery](/Stages/discovery.md)
 3. [Elaboration](/Stages/elaboration.md)
 4. [Delivery](/Stages/delivery.md)
 

@@ -19,6 +19,7 @@
 - [Delivery](/Stages/delivery.md)
 - [Design Capability](/Capabilities/design.md)
 - [Development Case](/Artefacts/dev-case.md)
+- [Discovery](/Stages/discovery.md)
 ## E
 - [Elaboration](/Stages/elaboration.md)
 - [Engineering Capability](/Capabilities/engineering.md)
@@ -28,7 +29,6 @@
 - [Governance Capability](/Capabilities/governance.md)
 ## H
 ## I
-- [Inception](/Stages/inception.md)
 - [Introduction](/index.md)
 ## J
 ## K

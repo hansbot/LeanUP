@@ -11,11 +11,11 @@ Similar to the original [Unified Process][up], the [LeanUP][leanup] defines 4 di
 | # | Phase | Purpose | Trigger |
 | ----------- | ----------- | ----------- | ----------- |
 | 1 | [Exploration](/Stages/exploration.md) | Alignment | [Business Opportunity](/Artefacts/bus-oppo.md) |
-| 2 | [Inception](/Stages/inception.md) | Scoping | [Business Case](/Artefacts/bus-case.md) |
+| 2 | [Discovery](/Stages/discovery.md) | Scoping | [Business Case](/Artefacts/bus-case.md) |
 | 3 | [Elaboration](/Stages/elaboration.md) | Design | [Development Case](/Artefacts/dev-case.md) |
 | 4 | [Delivery](/Stages/delivery.md) | Working Software | [Accepted Prototype](/Artefacts/pro-review.md) |
 
-Notice that the [Inception](/Stages/inception.md) stage is preceeded by an [Exploration](/Stages/exploration.md) phase. This is an essential addition to the process. It is where the product gets shaped. The Construction and Transition phases have been merged into a single [Delivery](/Stages/delivery.md) phase. This aligns with the Agile way of working, sometimes summarized in the principle "You build it, you run it". It allows for a highly iterative devops approach, resulting in "continuous delivery". It also recognizes that an API is never finished unless the last consumer is retired. 
+Notice that the [Discovery](/Stages/discovery.md) stage is preceeded by an [Exploration](/Stages/exploration.md) phase. This is an essential addition to the process. It is where the product gets shaped. The Construction and Transition phases have been merged into a single [Delivery](/Stages/delivery.md) phase. This aligns with the Agile way of working, sometimes summarized in the principle "You build it, you run it". It allows for a highly iterative devops approach, resulting in "continuous delivery". It also recognizes that an API is never finished unless the last consumer is retired. 
 
 ![Model of the LeanUP](/images/leanup.png)
 

@@ -28,7 +28,7 @@
   - the initial [Development Case][devcase] has been updated
   - the [risk list][risks] is updated
 
-## Failure Risk Reduction 
+## Delivery Risk Reduction 
 During Elaboration, the focus is on ensuring that all the design choices have been made and validated. This includes the API Taxonomy. 
 
 ## Decision

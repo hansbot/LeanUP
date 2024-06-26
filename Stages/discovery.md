@@ -1,8 +1,10 @@
-# Inception Stage
+# Discovery Stage
 
 > First post : 20 June 2024
 
 > Last edit : 21 June 2024
+
+
 
 ## Ownership
 - Accountable : Product Development Executive / Product Manager / Product Owner
@@ -24,8 +26,8 @@
   - the initial [Development Case][devcase] has been accepted
   - the initial [Product Risk List](/Artefacts/risklist.md) has been established
 
-## Failure Risk Reduction 
-During Inception, the focus is on ensuring that the product is technically feasible given the assigned resources. A proof of concept may be required to establish the feasibility.  
+## Delivery Risk Reduction 
+During Discovery, the focus is on ensuring that the product is technically feasible given the assigned resources. A proof of concept may be required to establish the feasibility.  
 
 ## Decision
 Based on the findings, the Product Architect makes a recommendation to the Product Accountable. The Product Accountable decides whether to release the budget for the next phase, and to assign the required resources.

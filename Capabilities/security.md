@@ -2,7 +2,7 @@
 
 > First post : 24 June 2024
 
-> Last edit : 25 June 2024
+> Last edit : 26 June 2024
 
 ## Core Responsibilities
 - Risk Assessment
@@ -15,32 +15,30 @@ A typical security process is a pdca-like continuous improvement cycle. The 4 ph
 
 | Phase | Activity | Description |
 | --- | --- | --- |
-| 1. | Prevent | Assessing Risks, Defining Controls and Implementing Security Measures is mainly done in the early stages of the LeanUP process. Obviously, the focus is on API Security. This includes, by the way, the security of APIs the Digital Product is only consuming. |
+| 1. | Prevent | Assessing Risks, Defining Controls and Implementing Security Measures is mainly done in the early stages of the LeanUP process. Obviously, the focus is on API Security. This includes, by the way, the security of APIs the Digital Product is only consuming. It also includes implementing a process to implement security patches. |
 | 2. | Detect | When you have proper monitoring in place, much of the detection and counter-measures can, and probably should be automated. Nevertheless, it is important to check at least daily if the automated detection is working as expected. Unknown threats may occur at any point in time. Submitting daily and monthly compliance reports is a proven method to build a security routine. |
-| 3. | Respond | Having an Incident Respons Plan is one thing, Frequently testing and updating is yet another. The Respons Plan should at least address how to Minimize Loss & Damage, how to Collect and Secure Evidence, how to Safely Recover your Service, how to Communicate Progress and how to Perform a Post Mortem. For inspiration, have a look at this [NIST Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf). |
-| 4. | Improve |  |
+| 3. | Respond | Having an Incident Respons Plan is one thing, Frequently testing and updating is yet another. The Respons Plan should at least address how to Minimize Loss & Damage, how to Collect and Secure Evidence, how to Safely Recover your Service, how to Communicate Progress and how to Perform a [Post Mortem][pm]. For inspiration, have a look at this [NIST Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf). |
+| 4. | Improve | Improvements start at analyzing what's going on. Be it legislation, be it cyber threats reports, or simply (near-) informationsecurity events and incidents you've experienced yourself. Improvement potential is captured on a cyber defence backlog, and entered in the regular product release planning |
 
-## Contribution per Stage
-| Stage | Contribution |
-| ----- | ------------ |
-| [Exploration](/Stages/exploration.md) | |
-| [Inception](/Stages/inception.md) | |
-| [Elaboration](/Stages/elaboration.md) | |
-| [Delivery](/Stages/delivery.md) | |
-
-## Contribution to Artefacts
-| Artefact | Contribution |
-| ----- | ------------ |
-| [API Security Plan](/Artefacts/sec-plan) | own |
-| [Development Case](/Artefacts/dev-case.md) | review |
-| [Prototype Review](/Artefacts/pro-review.md) | review |
-| [Release Review](/Artefacts/rel-review.md) | advice |
-| [Risk List](/Artefacts/risklist.md) | advice |
-| [Value Case](/Artefacts/val-case.md) | review |
-| [Value Opportunity](/Artefacts/val-oppo.md) | review |
-| [Daily compliance](/Artefacts/dailyCompliance.md) | own |
-| [Monthly compliance](/Artefacts/monthlyCompliance.md) | own |
+## Contribution to LeanUP
+| Artefact | Contribution | [Exploration Stage](/Stages/exploration.md) |[Discovery Stage](/Stages/discovery.md) | [Elaboration Stage](/Stages/elaboration.md) | [Delivery Stage](/Stages/delivery.md) | 
+| ----- | ------------ | - | - | - | - |
+| [Architecture Plan](/Artefacts/arch-plan.md) | advice |  | assess update  | assess update  | assess update |
+| [API Security Plan](/Artefacts/sec-plan) | own | Optional Plan update | Optional Plan update |  Optional Plan update | Optional Plan update |
+| [Value Opportunity](/Artefacts/val-oppo.md) | define information security risks | Initial risk assessment | Update risk assessment | | |
+| [Value Case](/Artefacts/val-case.md) | define information security controls | | Initial set of controls | Updated set of controls | |
+| [Development Case](/Artefacts/dev-case.md) | review | | Initial Set of Security Measures | Updated Set of Security Measures |
+| [Release Plan](/Artefacts/rel-plan.md) | advice |  |  | assess update | assess update  |
+| [Prototype](/Artefacts/pro-review.md) | review | | | Initial API Security Audit | |
+| [Product Release](/Artefacts/rel-review.md) | advice | | | | API Security Audit, Conformance Scan | 
+| [Risk List](/Artefacts/risklist.md) | Collaborate | joint effort | joint effort | joint effort | joint effort |
+| [Daily compliance](/Artefacts/dailyCompliance.md) | own | | | Specify Daily Security Checks | Daily Compliance Report |
+| [Monthly compliance](/Artefacts/monthlyCompliance.md) | own |  | | Specify Monthyl Security Checks | Monthly Compliance Report |
+| [Post Mortem ][pm] | author report | | | | After major incident | 
 
 [<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Capabilities/overview.md)
 
 *License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
+
+[pm]: /Artefacts/post-mortem.md

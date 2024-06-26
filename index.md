@@ -1,4 +1,4 @@
-# From API First to the LeanUP – A Manifesto
+# From API First to LeanUP – A Plea
 
 > First post : 20 June 2024
 
@@ -18,14 +18,26 @@ I believe it is time to reinvent the [Unified Process][up], and to tune it to th
 
 More modern practices are helping to drive down product developement risks earlier in the process. Shift Left comes to mind. The Cloud-native computing principles too. And, of course, there's the widespread availability of APIs you can instantly compose into your product.
 
-That’s why I am proposing the Lean Unified Process, or [LeanUP](/Overview/leanup.md) for short. 
+That’s why I am proposing the Lean Unified Process, or [LeanUP][leanup] for short. 
+
+Here's the [LeanUP][leanup] Product Positioning Statement.
+| | |
+| - | - |
+| **For** | Any Digital Organization |
+| **Who** | Practices Agile Digital Product Development |
+| **LeanUP** | Is a useful guide |
+| **That** | Merges LEAN principles with the Unified Process |
+| **Unlike** | Either the Rational Unified Process or Scaling Agile initiatives |
+| **Our Product** | Brings a risk-driven, well-governed approach to LEAN/Agile product development while driving the Waste out of the Unified Process |
+
 
 ## Contents
 List of [References](/References/links.md)
 
-[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Overview/leanup.md)
+[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>][leanup]
 
 *License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
 [up]: https://en.wikipedia.org/wiki/Unified_process
+[leanup]: /Overview/leanup.md
 

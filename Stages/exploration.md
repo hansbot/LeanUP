@@ -46,8 +46,10 @@ Also, creating a product positioning statement, a tried and proven technique fro
   - the initial [Value Case][valcase] has been accepted
   - the [risk list][risks] is updated
 
-## Failure Risk Reduction 
+## Delivery Risk Reduction 
 During Exploration, the focus is on ensuring that all the resources required to complete the product are sufficiently known, and reasonably available. This includes the estimated budget and the (key) human resources. A High-Level design is often required to answer the key questions for the stage. At a minimum, the chosen interface style must be known.
+
+In rare cases, with high degrees of uncertainty, viability depends on technical feasibility. Especially when existing technologies don't fit the [Value Opportunity](/Artefacts/val-oppo.md). Please note that research into novel technologies is outside the scope of [LeanUP](/Overview/leanup.md).
 
 ## Decision
 Based on the findings, the Product Development Researcher makes a recommendation to the Product Accountable. The Product Accountable decides whether to include the proposed product on the product development plan.

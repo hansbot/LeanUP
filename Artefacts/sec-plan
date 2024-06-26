@@ -2,27 +2,56 @@
 
 > First post : 24 June 2024
 
-> Last edit : 25 June 2024
+> Last edit : 26 June 2024
 
 Information Security and CyberSecurity have become recurring topics on the business planning calendar. In part, driven by government regulation, but also because 'the digital' is more and more of strategic value. CIA is the common acronym embodying the entire scope of digital security: Fully Protect Confidentiality and Data Integrity, and Guarantee Availability whenever you need your digital asset.
 
 Although a L E A N way of governing information security is a bit of a conundrum, I believe there is a decent way to bring it about. This is some guidance to that.
 
-## The Donts
-### 1. Classification of APIs 
+## Risks
+Risks are mostly not product-specific. Therefore, it makes sense to keep a list of general risks to assess with any product. This is an important accellerator for a security assessement of a [value case](/Artefacts/val-case.md). There are excellent lists available you can use as a starting point. OWASP, for instance, regularly publishes their [Top-10 for Web Application Security](https://owasp.org/Top10/) and seperately for [API Security](https://owasp.org/API-Security/). A more comprehensive [framework](https://www.enisa.europa.eu/publications/interoperable-eu-risk-management-framework) is available from the European Union.
+
+## Controls
+To translate risks into action, keep a list of standard controls. Organize your controls in categories, such as "people", "physical objects", "organization", "process", and "technology". A single risk will often require controls in multiple categories. Where possibly, define for each control the required proof. 
+
+## Information Security Policy
+Every organization sets its own information security policy, tuned to its own position in the market and its perceived risk profile. There is a worldwide trend of regulators urging organizations to treat information security as a strategic topic, requiring serious attention and investment. The NIS2 dircetive, for example, puts rules in place that ensure that all public and private entities across the internal market, which fulfil important functions for the economy and society as a whole, are required to take adequate cybersecurity measures. 
+
+An independent audit of the effectiveness of the policy is often required, sometimes by clients, but increasingly also by regulators. Privacy protection has become a mandatory part of an information security policy. There are a number of audit frameworks organization can comply to, such as
+- SOC 1/ISAE 3402, SOC 2, SOC 3
+- FISMA, DIACAP, and FedRAMP
+- PCI DSS
+- HIPAA
+- ISO 9001, ISO 27001, ISO 27017, ISO 27018
+
+## Incident Respons Plan
+Preventing any information security incident from ever happening would be a Herculean task. It is also wasteful, by spending lost of energy, resources and time in preventing imaginary events. In a pragmatic approach, the prevention focus is on proven risks. This should be augmented by a zero-repeat strategy, making sure that once an incident has occurred in practice, the same can never again happen. This increases the need for proper incident respons planning.
+
+An Incident Respons Plan is an essential tool to effectively handle security incidents and crises when they occur. It handles internal and external communication and decisioning. It also includes disaster recovery planning.
+A typical respons has these steps.
+
+| Step | Description |
+| - | - |
+| Containment | It is essential to minimize loss and damage through early, decive action, such as blocking network traffic from suspicious IP ranges, revoking certificates / tokens, and invalidating compromised keys. |
+| Trace Collection | Collecting and securing forensic information to help analyze the incident, help prove the crime, and to prevent information gets lost |
+| Recovery | A tried and tested process to quickly provision a clean instance of the compromised product | 
+| [Post Mortem][pm] | Taking lessons from a major incident is valuable. A [Post Mortem][pm] not only analyzes what went wrong – and should be improved, but also what went right – and should be cherished |
+
+### The Donts
+#### 1. Classification of APIs 
 Many believe that a solid classification of information assets and categories is the cornerstone to information security policies and controls. I beg to differ. When it comes to API security, there's typically no way to predict the future audience or accessibility. In the words of the [API Mandate](/References/api-mandate.md), an API must be designed for developers in the outside world. Whenever a [value opportunity](/Artefacts/val-oppo.md) is spotted to bring an API to good use, it should be fit for the new purpose by design. 
 
-Few things are more disappointing then losing a good [value opporunity](/Artefacts/val-oppo.md) over insufficient security clearance. Moreover, contrary to common belief, there is little to gain by lowering your security standards for a subset of your APIs. Leaving aside the question how you can make something only a little bit secure, there are in practice little or no downsides to design for security. It's become trivial to encrypt data in transit. Similarly, encryption or your data at rest is no longer rocket science. Observability features facilitate a solid security incident and event monitoring practice. Consequently, I highly recommend creating a single list of controls and apply them to all your APIs.
+Few things are more disappointing then losing a good [Value Opportunity](/Artefacts/val-oppo.md) over insufficient security clearance. Moreover, contrary to common belief, there is little to gain by lowering your security standards for a subset of your APIs. Leaving aside the question how you can make something only a little bit secure, there are in practice little or no downsides to design for security. It's become trivial to encrypt data in transit. Similarly, encryption or your data at rest is no longer rocket science. Observability features facilitate a solid security incident and event monitoring practice. Consequently, I highly recommend creating a single list of controls and apply them to all your APIs.
 
 > As soon as API security has become an integral part of your way of working, a set routine, it doesn't hold you back, rather it accellerates your delivery journey.
 
 This is not to say that all APIs should be made public. On the contrary. Managing access control is an essential part of the [API Management capability](/Capabilities/management.md). That's the proper place to manage access. When your API has no presumed audience engineered in, it is generally usable, so it brings a high potential value.
 
-## 2. Centralization of Security Controls
+#### 2. Centralization of Security Controls
 One of the lessens we've learned as an industry is that, while separation of concerns is important,  delegating resonsibilities into a separated digital domain, remoted from the domain where the knowledge about the actual digital asset is bundled, is an anti-pattern. 
 
-## The Do's
-### 1. Shared Responsibiliy
+### The Do's
+#### 1. Shared Responsibiliy
 
 Whether or not you target cloud-native deployment of your API, a clean separation of responsibilities is the foundation of your [API Security Plan](/Artefacts/sec-plan). Obviously, larger IT ventures implement a more fine-grained approach than smaller ones. However, this is a good starting point. 
 
@@ -62,10 +91,10 @@ There are many security practices for workload management teams to master. Ident
 
 It goes without saying that implementing CI/CD pipelines to automatically build and deliver digital assets at high quality is a must, nowadays.
 
-### 2. Shift Left
+#### 2. Shift Left
 Tackling security early in the development process is a well-known accellerator. Sadly, it is easier said than done. It requires smart security toll-gates at every stage [milestone](/Overview/milestones.md). Setting security controls early in the process, while uncertainties still run high, is especially challenging. Fortunately, when the platform and the underlying infrastructure offer a high standard as a starting point, and additional controls are standardized as much as possible, shifting left becomes actually doable.
 
-### 3. Govern through Principles
+#### 3. Govern through Principles
 LEAN API Security Governance starts with setting and advocating clear security principles. Security Principles provide clear direction to everyone. As much as possible, Governance is engineered into the digital platform, facilitating frictionless compliance. API Governance must include a mechanism to gently handle the inevitable exceptions. Otherwise, most of the enforcement gets shifted right, towards the Inspection Plane. 
 
 Here's a list of security principles for inspiration.
@@ -84,3 +113,4 @@ Here's a list of security principles for inspiration.
 
 *License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
+[pm]: /Artefacts/post-mortem.md
