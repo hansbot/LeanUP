@@ -2,13 +2,13 @@
 
 > First post : 20 June 2024
 
-> Last edit :
+> Last edit : 26 June 2024
 
-Unlike the original [Unified Process][leanup], which is project oriented, the [Lean Unified Process][leanup], or LeanUP, is product oriented. Thereby, it is closer aligned to modern agile frameworks. It also aligns with the widespread belief that APIs should be managed as a product. 
+Unlike the original [Unified Process][leanup], which is project oriented, the Lean Unified Process, or [LeanUP][leanup], is product oriented. Thereby, it is closer aligned to modern agile frameworks. It also aligns with the widespread belief that APIs should be managed as a product. 
 
 Similar to the original [Unified Process][up], the [LeanUP][leanup] defines 4 distinct increments. known as *stages*. These stages are designed to rapidly drive down risks, and fail early when necessary.
 
-| # | Phase | Purpose | Trigger |
+| # | Stage | Purpose | Trigger |
 | ----------- | ----------- | ----------- | ----------- |
 | 1 | [Exploration](/Stages/exploration.md) | Alignment | [Business Opportunity](/Artefacts/bus-oppo.md) |
 | 2 | [Discovery](/Stages/discovery.md) | Scoping | [Business Case](/Artefacts/bus-case.md) |

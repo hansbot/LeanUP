@@ -24,6 +24,14 @@
 | [Monthly compliance](/Artefacts/monthlyCompliance.md) |  |  |  |  |  |
 | [Post Mortem ][pm] |  |  |  |  |  |
 
+## Core Engineering Practices
+Especially when targeting a cloud-based target architecture,  
+- software development 
+- system integration
+- testing & quality control
+- ci/cd
+- packaging
+- observability
 
 [<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Capabilities/overview.md)
 
