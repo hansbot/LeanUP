@@ -23,18 +23,19 @@ A typical security process is a pdca-like continuous improvement cycle. The 4 ph
 ## Contribution to LeanUP
 | Artefact | Contribution | [Exploration Stage](/Stages/exploration.md) |[Discovery Stage](/Stages/discovery.md) | [Elaboration Stage](/Stages/elaboration.md) | [Delivery Stage](/Stages/delivery.md) | 
 | ----- | ------------ | - | - | - | - |
-| [Architecture Plan](/Artefacts/arch-plan.md) | advice |  | assess update  | assess update  | assess update |
-| [API Security Plan](/Artefacts/sec-plan) | own | Optional Plan update | Optional Plan update |  Optional Plan update | Optional Plan update |
-| [Value Opportunity](/Artefacts/val-oppo.md) | define information security risks | Initial risk assessment | Update risk assessment | | |
-| [Value Case](/Artefacts/val-case.md) | define information security controls | | Initial set of controls | Updated set of controls | |
-| [Development Case](/Artefacts/dev-case.md) | review | | Initial Set of Security Measures | Updated Set of Security Measures |
-| [Release Plan](/Artefacts/rel-plan.md) | advice |  |  | assess update | assess update  |
-| [Prototype](/Artefacts/pro-review.md) | review | | | Initial API Security Audit | |
-| [Product Release](/Artefacts/rel-review.md) | advice | | | | API Security Audit, Conformance Scan | 
+| [Architecture Plan](/Artefacts/arch-plan.md) | Advice |  | assess update  | assess update  | assess update |
+| [API Security Plan](/Artefacts/sec-plan) | Manage | Optional Plan update | Optional Plan update |  Optional Plan update | Optional Plan update |
+| [Value Opportunity](/Artefacts/val-oppo.md) | Define information security risks | Initial risk assessment | Update risk assessment | | |
+| [Value Case](/Artefacts/val-case.md) | Define information security controls | | Initial set of controls | Updated set of controls | |
+| [API Design](/Artefacts/api-design.md) | Assess | | | Initial API Security Audit | API Security Audit |
+| [Development Case](/Artefacts/dev-case.md) | Review | | Initial Set of Security Measures | Updated Set of Security Measures |
+| [Release Plan](/Artefacts/rel-plan.md) | Advice |  |  | assess update | assess update  |
+| [Prototype](/Artefacts/pro-review.md) | Review | | | Initial Vulnerability Scan | |
+| [Product Release](/Artefacts/rel-review.md) | Advice | | | | API Conformance Scan, Vulnerability Scan | 
 | [Risk List](/Artefacts/risklist.md) | Collaborate | joint effort | joint effort | joint effort | joint effort |
-| [Daily compliance](/Artefacts/dailyCompliance.md) | own | | | Specify Daily Security Checks | Daily Compliance Report |
-| [Monthly compliance](/Artefacts/monthlyCompliance.md) | own |  | | Specify Monthyl Security Checks | Monthly Compliance Report |
-| [Post Mortem ][pm] | author report | | | | After major incident | 
+| [Daily compliance](/Artefacts/dailyCompliance.md) | Manage | | | Specify Daily Security Checks | Daily Compliance Report |
+| [Monthly compliance](/Artefacts/monthlyCompliance.md) | Manage |  | | Specify Monthyl Security Checks | Monthly Compliance Report |
+| [Post Mortem ][pm] | Author report | | | | After major incident | 
 
 [<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Capabilities/overview.md)
 

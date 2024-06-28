@@ -17,6 +17,7 @@
 | [API Security Plan](/Artefacts/sec-plan) |  |  |  |  |  |
 | [Value Opportunity](/Artefacts/val-oppo.md) |  |  |  |  |  |
 | [Value Case](/Artefacts/val-case.md) |  |  |  |  |  |
+| [API Design](/Artefacts/api-design.md) | | | | | |
 | [Development Case](/Artefacts/dev-case.md) |  |  |  |  |  |
 | [Release Plan](/Artefacts/rel-plan.md) |  |  |  |  |  |
 | [Prototype](/Artefacts/pro-review.md) |  |  |  |  |  |

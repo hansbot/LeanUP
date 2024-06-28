@@ -2,12 +2,12 @@
 
 ## A
 - [API](/api.md)
-- [API Design](/Capabilities/design.md)
+- [API Design Capability](/Capabilities/design.md)
+- [API Design Artefact](/Artefacts/api-design.md)
 - [API Engineering](/Capabilities/engineering.md)
 - [API Governance](/Capabilities/governance.md)
-- [API Management](/Capabilities/management.md)
 - [API Mandate](/References/api-mandate.md)
-- [API Ownership](/Capabilities/ownership.md)
+- [API Product Management](/Capabilities/product-mgt.md)
 - [API Security](/Capabilities/security.md)
 - [Artefacts](/Artefacts/overview.md)
 ## B
@@ -35,15 +35,15 @@
 ## L
 - [LeanUP](/Overview/lup.md)
 ## M
-- [Mananagement Capabiliy](/Capabilities/management.md)
+- [Mananagement Capabiliy](/Capabilities/service-mgt.md)
 - [Model Overview](/Overview/leanup.md)
 - [Monthly compliance](/Artefacts/monthlyCompliance.md)
 ## N
 ## O
 - Model [Overview](/Overview/leanup.md)
-- [Ownership Capability](/Capabilities/ownership.md)
 ## P
 - [Process Overview](/Overview/lup.md)
+- [Product Management Capability](/Capabilities/product-mgt.md)
 - [Prototype Review](/Artefacts/pro-review.md)
 ## Q
 ## R
@@ -54,6 +54,7 @@
 ## S
 - [Security Capability](/Capabilities/security.md)
 - [Security Plan](/Artefacts/sec-plan)
+- [Service Management](/Capabilities/service-mgt.md)
 - [Stages](/Stages/overview.md)
 ## TU
 ## V

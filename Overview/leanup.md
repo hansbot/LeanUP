@@ -21,10 +21,10 @@ Notice that the [Discovery](/Stages/discovery.md) stage is preceeded by an [Expl
 
 The "disciplines" in the original are replaced with 6 Core Capabilities. 
 - [API Governance](/Capabilities/governance.md)
-- [API Ownership](/Capabilities/ownership.md)
+- [Product Management](/Capabilities/product-mgt.md)
 - [API Design](/Capabilities/design.md)
 - [API Engineering](/Capabilities/engineering.md)
-- [API Management](/Capabilities/management.md)
+- [Service Management](/Capabilities/service-mgt.md)
 - [API Security](/Capabilities/security.md)
 
 Notice that the prefix [API](/api.md) here defines what makes the process Lean, by focussing on Interfaces rather than the insides of a bounded context. This opens the door for a more informal way of working during the delivery phase. The [LeanUP][leanup] just sets the guardrails and controls the boundaries.

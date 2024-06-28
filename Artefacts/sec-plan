@@ -45,7 +45,7 @@ Few things are more disappointing then losing a good [Value Opportunity](/Artefa
 
 > As soon as API security has become an integral part of your way of working, a set routine, it doesn't hold you back, rather it accellerates your delivery journey.
 
-This is not to say that all APIs should be made public. On the contrary. Managing access control is an essential part of the [API Management capability](/Capabilities/management.md). That's the proper place to manage access. When your API has no presumed audience engineered in, it is generally usable, so it brings a high potential value.
+This is not to say that all APIs should be made public. On the contrary. Managing access control is an essential part of the [Service Management capability](/Capabilities/service-mgt.md). That's the proper place to manage access. When your API has no presumed audience engineered in, it is generally usable, so it brings a high potential value.
 
 #### 2. Centralization of Security Controls
 One of the lessens we've learned as an industry is that, while separation of concerns is important,  delegating resonsibilities into a separated digital domain, remoted from the domain where the knowledge about the actual digital asset is bundled, is an anti-pattern. 
