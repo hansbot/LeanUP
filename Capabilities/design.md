@@ -9,11 +9,12 @@
 - Stakeholder Alignment
 - Interaction Design 
 - API Specification
+- Database Design
 
 ## API Design Process
-API Design is the core of the LeanUP. After all, having the right APIs at the levels at the right quality not only gives you control over your entire digital product lifecycle, it also empowers your digital value chain. 
+API Design is the core of the LeanUP. After all, having the right APIs at the levels at the right quality not only gives you control over your entire digital product lifecycle, it also empowers your digital value chain. Since an API is at the pivot point between the data in the backend and the user experience in the frontend, good API Design must be aligned with database design and user interaction design. 
 
-API Design must be firmly rooted in the overal Architecture. At the same time, API Design is an excellent opportunity to update the overal Architecture to fit changing needs, or put newer technologies to good use.
+Furthermore, API Design must be firmly rooted in the overal Architecture. At the same time, API Design is an excellent opportunity to validate and potentially update the overal Architecture, in order to fit changing needs, or put newer technologies to good use.
 
 In the [ADDR process model](/References/addr.md), API Design is a 4-stage process, which maps nicely on [LeanUP](/Overview/leanup.md).  
 
@@ -21,7 +22,7 @@ In the [ADDR process model](/References/addr.md), API Design is a 4-stage proces
 | Artefact | Contribution | [Exploration Stage](/Stages/exploration.md) |[Discovery Stage](/Stages/discovery.md) | [Elaboration Stage](/Stages/elaboration.md) | [Delivery Stage](/Stages/delivery.md) | 
 | ----- | ------------ | - | - | - | - |
 | [Architecture Plan](/Artefacts/arch-plan.md) | Manage |  | Optional Update | Optional Update | Optional Update |
-| [API Security Plan](/Artefacts/sec-plan) | Advice |  | Optional Update Recommendation | Optional Update Recommendation | Optional Update Recommendation |
+| [Information Security Plan](/Artefacts/sec-plan) | Advice |  | Optional Update Recommendation | Optional Update Recommendation | Optional Update Recommendation |
 | [Value Opportunity](/Artefacts/val-oppo.md) | Review | Assessment |  |  |  |
 | [Value Case](/Artefacts/val-case.md) | Advice |  | Review Initial Version | Review Updated Version |  |
 | [API Design](/Artefacts/api-design.md) | Manage | API Style, Boundaries | API Skeleton | API Design | Refined API Design |

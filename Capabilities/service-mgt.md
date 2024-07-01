@@ -14,7 +14,7 @@
 | Artefact | Contribution | [Exploration Stage](/Stages/exploration.md) |[Discovery Stage](/Stages/discovery.md) | [Elaboration Stage](/Stages/elaboration.md) | [Delivery Stage](/Stages/delivery.md) | 
 | ----- | ------------ | - | - | - | - |
 | [Architecture Plan](/Artefacts/arch-plan.md) |  |  |  |  |  |
-| [API Security Plan](/Artefacts/sec-plan) |  |  |  |  |  |
+| [Information Security Plan](/Artefacts/sec-plan) |  |  |  |  |  |
 | [Value Opportunity](/Artefacts/val-oppo.md) |  |  |  |  |  |
 | [Value Case](/Artefacts/val-case.md) |  |  |  |  |  |
 | [API Design](/Artefacts/api-design.md) | | | | | |

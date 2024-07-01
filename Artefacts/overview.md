@@ -10,7 +10,7 @@ Every organization has it's own way of working. Although I prefer to keep it as 
 
 This is a set of key artefacts to consider. In the [Capabilities](/Capabilities/overview.md) section, you'll find the contribution of a capabilty throughout the [Stages](/Stages/overview.md).
 1. Here's the outline for an [Architecture Plan](/Artefacts/arch-plan) artefact
-2. Here's the outline for an [API Security Plan](/Artefacts/sec-plan) artefact
+2. Here's the outline for an [Information Security Plan](/Artefacts/sec-plan) artefact
 3. Here's the outline for a [Value Opportunity](/Artefacts/val-oppo.md) artefact
 4. Here's the outline for a [Value Case](/Artefacts/val-case.md) artefact
 5. Here's the outline for a [API Design](/Artefacts/api-design.md) artefact

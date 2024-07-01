@@ -1,10 +1,14 @@
-#Engineering Capability
+#Digital Engineering Capability
 
 > First post : 24 June 2024
 
-> Last edit : 25 June 2024
+> Last edit : 1 July 2024
+
+Without Digital engineering, there would be no digital product. Typically, teams are separated into a platform engineering or site reliability engineering teams and digital solution teams, including front-end engineering and back-end engineering. 
 
 ## Core Responsibilities
+- Platform Development
+- Platform Provisioning
 - API Development
 - API Delivery Pipeline 
 
@@ -12,7 +16,7 @@
 | Artefact | Contribution | [Exploration Stage](/Stages/exploration.md) |[Discovery Stage](/Stages/discovery.md) | [Elaboration Stage](/Stages/elaboration.md) | [Delivery Stage](/Stages/delivery.md) | 
 | ----- | ------------ | - | - | - | - |
 | [Architecture Plan](/Artefacts/arch-plan.md) | Comply |  |  |  | Suggest Improvements |
-| [API Security Plan](/Artefacts/sec-plan) | Comply |  |  |  | Suggest Improvements |
+| [Information Security Plan](/Artefacts/sec-plan) | Comply |  |  |  | Suggest Improvements |
 | [Value Opportunity](/Artefacts/val-oppo.md) |  |  |  |  |  |
 | [Value Case](/Artefacts/val-case.md) |  |  |  | Study |  |
 | [API Design](/Artefacts/api-design.md) | Advice | | Assess | Contribute | Contribute |
@@ -28,14 +32,17 @@
 
 ## Core Engineering Practices
 Especially when you're targeting a cloud-based target architecture, practising DevOps, and shifting quality and security left, there are a lot of competencies required for the [Engineering Capability](/Capabilities/engineering.md). Things like  
-- software development 
-- system integration
-- testing & quality control
-- ci/cd
-- packaging
-- configuration management
-- observability
-[LeanUP][leanup] is not opinionated on how you practice software engineering. There are ample mature methods to choose from. That is, as long as you can fit it into the overarching [LeanUP][leanup] framework. 
+- Software development 
+- System integration
+- Hardening
+- Testing & quality control
+- Ci/cd
+- Packaging
+- Defining desired state
+- Configuration management
+- Observability
+
+[LeanUP][leanup] is not opinionated on how you practice digital engineering. There are ample mature methods to suit your particular needs. It is just a matter of fitting yours into the overarching [LeanUP][leanup] framework. 
 
 [<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Capabilities/overview.md)
 

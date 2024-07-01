@@ -24,7 +24,7 @@ This is a list of typical questions that are discussed during the [Exploration S
 Usually, the answers have a certain degree of uncertainty. A proof-of-concept may serve to drive down the risks to the feasibility of the product. It may also serve to more reliably plan the elaboration stage. 
 
 ## Relation to other Artefacts
-The [API Security Plan](/Artefacts/sec-plan) defines a standard list of information security controls to consider.
+The [Information Security Plan](/Artefacts/sec-plan) defines a standard list of information security controls to consider.
 
 [<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Artefacts/overview.md)
 

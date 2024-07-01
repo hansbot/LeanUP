@@ -27,7 +27,7 @@ Usually, the answers have a significant degree of uncertainty. Timing is often a
 An objective adds a quantification to a goal. A goal can have multiple objectives, and an objective can serve multiple goals. Having a discrete set of objectives helps to measure future success. When circumstances change, reconsidering the objectives is a first step in reprioritizing the initiative.
 
 ## Relation to other Artefacts
-The [API Security Plan](/Artefacts/sec-plan) defines a standard list of information security risks to consider
+The [Information Security Plan](/Artefacts/sec-plan) defines a standard list of information security risks to consider
 
 [<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Artefacts/overview.md)
 
