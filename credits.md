@@ -1,13 +1,15 @@
 # Credits
 
+```text
 > First post 20 June 2024
-
 > Last edit 21 June 2024
+```
 
-I've been inspired by many people, visiting events, reading books and watching videos. It's impossible to exactly trace every thought to its origin. Therefore, I just list those who have been most important to me personally, when it comes to Enterprise Integration Architecture and API Design. 
+I've been inspired by many people, visiting events, reading books and watching videos. It's impossible to exactly trace every thought to its origin. Therefore, I just list those who have been most important to me personally, when it comes to Enterprise Integration Architecture and API Design.
 
 ## Books
-| Title | Authors | 
+
+| Title | Authors |
 | ----- | ------- |
 | Enterprise Integration Patterns | Gregor Hohpe & Bobby Woolf |
 | Principles of Web API Design | James Higginbotham |
@@ -34,6 +36,7 @@ I've been inspired by many people, visiting events, reading books and watching v
 And many more.
 
 ## Thought Leaders
+
 | Name | Work |
 | ---- | ---- |
 | Gregor Hohpe | Enterprise Integration Architecture Talks and [Publications](https://architectelevator.com), Integration Design Language |
@@ -42,7 +45,7 @@ And many more.
 | Asanka Abeysinghe | Co-author of [Cell-Based Architecture](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md) |
 | Jeff Bezos | [the API Mandate](/References/api-mandate.md) |
 | Erik Wilde | [Getting APIs to Work](https://youtu.be/qsnlBngDjts) |
-| Mike Amundsen | Original Thinker, Prolific Writer and Speaker. [Mamund](http://amundsen.com) | 
+| Mike Amundsen | Original Thinker, Prolific Writer and Speaker. [Mamund](http://amundsen.com) |
 | James Higginbotham | API-Design First Evangalist, Author of the ADDR-process |
 | Arnaud Lauret | the [API Handyman](https://apihandyman.io) |
 | Hyrum Wright | Made fame stating his own [Law](https://www.hyrumslaw.com) |
@@ -54,6 +57,8 @@ And many more.
 | Jan de Brieder | Who gave me the brightest introduction to IT Architecture I could have wished for |
 | Werner Vogels | Always thought provoking and one step ahead. Werner got me excited for cloud computing when AWS were only a scaleup |
 
-[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Overview/leanup.md)
+| | |
+| - | - |
+| *License*:</BR>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | [![LeanUP Logo](/images/leanupLogo-s.png)][nav] |
 
-*License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+[nav]: /Overview/leanup.md

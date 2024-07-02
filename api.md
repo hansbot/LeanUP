@@ -1,8 +1,9 @@
 # What's in an API
 
+```text
 > First post : 20 June 2024
-
 > Last edit : 27 June 2024
+```
 
 Over the years, APIs have become a catch-all phrase for any kind of interaction with a digital service. The interaction may be synchronous or asynchronous in nature, it may be message based or event oriented, it may be batch processeing or real-time, it may be textual or binary, loosely coupled or tightly coupled, anything goes.
 
@@ -14,10 +15,12 @@ In the context of the Lean Unified Process, or [LeanUP](/Overview/leanup.md) for
 
 Now, if you can make sure that there are no interdependencies across components in your architecture but APIs, you are in full control. Again, Bezos pointed it out back in 2002:
 > There will be no other form of interprocess communication allowed: no direct linking, no direct reads of another team’s data store, no shared-memory model, no back-doors whatsoever. The only communication allowed is via service interface calls over the network.
-There you have it. Teams can have full autonomy within the bounds set by the interface contracts. 
+There you have it. Teams can have full autonomy within the bounds set by the interface contracts.
 
 APIs done right, in other words, allows you full control over your digital business. That's the core thesis behind [LeanUP](/Overview/leanup.md). Its a minimalistic yet powerful approach to governance. And thats why [API Design](/Capabilities/design.md) is the core capability in the process. And yes, that is 'API' in the broadest sense of the word, from virtualization services all the way up to business components. And yes, that will require a broad set of competences, ranging from enterprise architecture governance to the intrinsics of XML or JSON schema design. That's the exciting world behind the 'API' moniker.
 
-[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Overview/leanup.md)
+| | |
+| - | - |
+| *License*:</BR>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | [![LeanUP Logo](/images/leanupLogo-s.png)][nav] |
 
-*License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+[nav]: /Overview/leanup.md

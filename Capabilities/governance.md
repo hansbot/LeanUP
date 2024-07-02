@@ -1,12 +1,14 @@
-#Governance Capability
+# Governance Capability
 
+```text
 > First post : 24 June 2024
-
 > Last edit : 1 July 2024
+```
 
-Much of the [Governance](/Capabilities/governance.md) responsibitities is about creating the conditions for an organization to survive and thrive. Thereby, it is conditional for Product Development. In the context of the LeanUP process, Governance is about **Shaping**, **Guiding** and **Guarding** Product Development. 
+Much of the [Governance](/Capabilities/governance.md) responsibitities is about creating the conditions for an organization to survive and thrive. Thereby, it is conditional for Product Development. In the context of the LeanUP process, Governance is about **Shaping**, **Guiding** and **Guarding** Product Development.
 
 ## Core Responsibilities
+
 - Direction: Overall Leadership, Mission, Vision, and Culture.
 - Market Analysis: Competition, Market Dynamics, SWOT Analysis.
 - Value Chain Management: Coalition Building, Supplier Management, Customer Relationship Management.
@@ -16,7 +18,8 @@ Much of the [Governance](/Capabilities/governance.md) responsibitities is about 
 - Roadmap Planning: Setting a common pace for program increments.
 
 ## Contribution to LeanUP
-| Artefact | Contribution | [Exploration Stage](/Stages/exploration.md) |[Discovery Stage](/Stages/discovery.md) | [Elaboration Stage](/Stages/elaboration.md) | [Delivery Stage](/Stages/delivery.md) | 
+
+| Artefact | Contribution | [Exploration Stage](/Stages/exploration.md) |[Discovery Stage](/Stages/discovery.md) | [Elaboration Stage](/Stages/elaboration.md) | [Delivery Stage](/Stages/delivery.md) |
 | ----- | ------------ | - | - | - | - |
 | [Architecture Plan](/Artefacts/arch-plan.md) | Approve |  |  |  |  |
 | [Information Security Plan](/Artefacts/sec-plan) | Guide |  |  |  |  |
@@ -26,14 +29,15 @@ Much of the [Governance](/Capabilities/governance.md) responsibitities is about 
 | [Development Case](/Artefacts/dev-case.md) | Approve |  |  |  |  |
 | [Release Plan](/Artefacts/rel-plan.md) | Approve |  |  |  |  |
 | [Prototype](/Artefacts/pro-review.md) | Direct |  |  |  |  |
-| [Product Release](/Artefacts/rel-review.md) | Direct |  |  |  |  | 
+| [Product Release](/Artefacts/rel-review.md) | Direct |  |  |  |  |
 | [Risk List](/Artefacts/risklist.md) | Decide | joint effort | joint effort | joint effort | joint effort |
 | [Daily compliance](/Artefacts/dailyCompliance.md) | Notice |  |  |  |  |
 | [Monthly compliance](/Artefacts/monthlyCompliance.md) | Assess |  |  |  |  |
-| [Post Mortem ][pm] | Guide |  |  |  |  |
+| [Post Mortem][pm] | Guide |  |  |  |  |
 
-[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Capabilities/overview.md)
+| | |
+| - | - |
+| *License*:</BR>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | [![LeanUP Logo](/images/leanupLogo-s.png)][nav] |
 
-*License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
-
+[nav]: /Capabilities/overview.md
 [pm]: /Artefacts/post-mortem.md

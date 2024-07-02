@@ -1,14 +1,15 @@
 # From API First to LeanUP – A Plea
 
+```text
 > First post : 20 June 2024
-
 > Last edit : 25 June 2024
+```
 
-I am far from the first to notice that the monikers “API First”, and “API-Design First” are a bit of a misnomer. Even API-Specification First is off. If you think of the entire development process, it starts way earlier than with the ‘Design’. Rather, it starts with an idea or an opportunity. In a health organization, there are many opportunities, of which only some come to fruition. There’s a business development funnel, much like the better known sales funnel. 
+I am far from the first to notice that the monikers “API First”, and “API-Design First” are a bit of a misnomer. Even API-Specification First is off. If you think of the entire development process, it starts way earlier than with the ‘Design’. Rather, it starts with an idea or an opportunity. In a health organization, there are many opportunities, of which only some come to fruition. There’s a business development funnel, much like the better known sales funnel.
 
 James Higginbotham has become famous for outlining the ADDR-process for API-Design First. I fully understand why his proposed method fell on fertile ground. It simply gave word to the experience many of us, API designers, shared. His phases – align, define, design and refine – instantly reminded me of the [Unified Process][up]’s stages – inception, elaboration, construction, transition. The Unified Process was theoretically well underpinned. Everything meaningful we construct, be it an airplane, a bridge, or a nuclear power plant, roughly follows the same process journey. Why would software development be different?
 
-I know, we’re supposed to be agile, nowadays. We don’t want to make a big design upfront. But there’s also no denying that the agile software construction typically starts halfway the entire development process. There are already domains defined, teams formed, budgets allocated and accountabilities established. You get the picture. And APIs, by there very nature, transcend a single agile team. API design is, as James Higginbotham has rightly pointed out, a very much incremental process. You need increments with clearly defined milestones for joint decision making and overall process control. 
+I know, we’re supposed to be agile, nowadays. We don’t want to make a big design upfront. But there’s also no denying that the agile software construction typically starts halfway the entire development process. There are already domains defined, teams formed, budgets allocated and accountabilities established. You get the picture. And APIs, by there very nature, transcend a single agile team. API design is, as James Higginbotham has rightly pointed out, a very much incremental process. You need increments with clearly defined milestones for joint decision making and overall process control.
 
 Unfortunately, the Rational Unified Process you may remember, suffered from too many ill understood roles and from too many deliverables that brought little business value. On top of that, the people who got assigned to these roles were typically disjoint from the latest software technologies. You probably know what I mean. So, the process got the blame of wasteful execution. And organizations moved on to adopting 'Agile' instead.
 
@@ -18,7 +19,7 @@ I believe it is time to reinvent the [Unified Process][up], and to tune it to th
 
 More modern practices are helping to drive down product developement risks earlier in the process. Shift Left comes to mind. The Cloud-native computing principles too. And, of course, there's the widespread availability of APIs you can instantly compose into your product.
 
-That’s why I am proposing the Lean Unified Process, or [LeanUP][leanup] for short. 
+That’s why I am proposing the Lean Unified Process, or [LeanUP][leanup] for short.
 
 Here's the [LeanUP][leanup] Product Positioning Statement.
 | | |
@@ -30,14 +31,14 @@ Here's the [LeanUP][leanup] Product Positioning Statement.
 | **Unlike** | Either the Rational Unified Process or Scaling Agile initiatives |
 | **Our Product** | Brings a risk-driven, well-governed approach to LEAN/Agile product development while driving the Waste out of the Unified Process |
 
-
 ## Contents
+
 List of [References](/References/links.md)
 
-[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>][leanup]
+| | |
+| - | - |
+| *License*:</BR>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | [![LeanUP Logo](/images/leanupLogo-s.png)][nav] |
 
-*License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
-
+[nav]: /Overview/leanup.md
 [up]: https://en.wikipedia.org/wiki/Unified_process
 [leanup]: /Overview/leanup.md
-

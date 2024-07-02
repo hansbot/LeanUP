@@ -1,5 +1,12 @@
 # Release Plan
 
-[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Artefacts/overview.md)
+```text
+> First post : 2 July 2024
+> Last edit : 
+```
 
-*License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+| | |
+| - | - |
+| *License*:</BR>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | [![LeanUP Logo](/images/leanupLogo-s.png)][nav] |
+
+[nav]: /Artefacts/overview.md

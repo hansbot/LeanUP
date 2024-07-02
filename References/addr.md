@@ -4,10 +4,12 @@
 Notice that it takes 7 steps to fully design an API, steps that are somewhat loosely mapped on the 4 stages of design.
 
 ## Credit
+
 Model extracted from the book 'Principles of Web API Design' by James Higginbotham.
 Visualiation, however, is custom made.
 
+| | |
+| - | - |
+| *License*:</BR>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | [![LeanUP Logo](/images/leanupLogo-s.png)][nav] |
 
-[<img src="/images/lup logo s.png" alt="drawing" class="center" width="150"/>](/Overview/lup.md)
-
-*License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+[nav]: /Overview/leanup.md

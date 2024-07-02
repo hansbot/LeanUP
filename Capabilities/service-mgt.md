@@ -1,17 +1,20 @@
-#Service Management Capability
+# Service Management Capability
 
+```text
 > First post : 24 June 2024
-
 > Last edit : 25 June 2024
+```
 
 ## Core Responsibilities
+
 - API Lifecycle Management
 - Developer Engagement
 - Test & Quality Control
 - API Monitoring
 
 ## Contribution to LeanUP
-| Artefact | Contribution | [Exploration Stage](/Stages/exploration.md) |[Discovery Stage](/Stages/discovery.md) | [Elaboration Stage](/Stages/elaboration.md) | [Delivery Stage](/Stages/delivery.md) | 
+
+| Artefact | Contribution | [Exploration Stage](/Stages/exploration.md) |[Discovery Stage](/Stages/discovery.md) | [Elaboration Stage](/Stages/elaboration.md) | [Delivery Stage](/Stages/delivery.md) |
 | ----- | ------------ | - | - | - | - |
 | [Architecture Plan](/Artefacts/arch-plan.md) |  |  |  |  |  |
 | [Information Security Plan](/Artefacts/sec-plan) |  |  |  |  |  |
@@ -21,14 +24,15 @@
 | [Development Case](/Artefacts/dev-case.md) |  |  |  |  |  |
 | [Release Plan](/Artefacts/rel-plan.md) |  |  |  |  |  |
 | [Prototype](/Artefacts/pro-review.md) |  |  |  |  |  |
-| [Product Release](/Artefacts/rel-review.md) |  |  |  |  |  | 
+| [Product Release](/Artefacts/rel-review.md) |  |  |  |  |  |
 | [Risk List](/Artefacts/risklist.md) | Collaborate | joint effort | joint effort | joint effort | joint effort |
 | [Daily compliance](/Artefacts/dailyCompliance.md) |  |  |  |  |  |
 | [Monthly compliance](/Artefacts/monthlyCompliance.md) |  |  |  |  |  |
-| [Post Mortem ][pm] |  |  |  |  |  |
-[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Capabilities/overview.md)
+| [Post Mortem][pm] |  |  |  |  |  |
 
-*License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+| | |
+| - | - |
+| *License*:</BR>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | [![LeanUP Logo](/images/leanupLogo-s.png)][nav] |
 
 >> Manage API Lifecycle
 >> Manage Access
@@ -38,4 +42,5 @@
 >> Operational Management
 >> Service Level Reporting
 
+[nav]: /Capabilities/overview.md
 [pm]: /Artefacts/post-mortem.md

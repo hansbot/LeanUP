@@ -1,16 +1,19 @@
-#Information Security Capability
+# Information Security Capability
 
+```text
 > First post : 24 June 2024
-
 > Last edit : 26 June 2024
+```
 
 ## Core Responsibilities
+
 - Risk Assessment
-- Security Controls 
+- Security Controls
 - Compliance
 - Security checking and reporting
 
 ## Security Process
+
 A typical security process is a pdca-like continuous improvement cycle. The 4 phases [LeanUP](/Overview/leanup.md) distinguishes are Prevention, Detection, Respons, and Improvement.
 
 | Phase | Activity | Description |
@@ -21,25 +24,26 @@ A typical security process is a pdca-like continuous improvement cycle. The 4 ph
 | 4. | Improve | Improvements start at analyzing what's going on. Be it legislation, be it cyber threats reports, or simply (near-) informationsecurity events and incidents you've experienced yourself. Improvement potential is captured on a cyber defence backlog, and entered in the regular product release planning |
 
 ## Contribution to LeanUP
-| Artefact | Contribution | [Exploration Stage](/Stages/exploration.md) |[Discovery Stage](/Stages/discovery.md) | [Elaboration Stage](/Stages/elaboration.md) | [Delivery Stage](/Stages/delivery.md) | 
+
+| Artefact | Contribution | [Exploration Stage](/Stages/exploration.md) |[Discovery Stage](/Stages/discovery.md) | [Elaboration Stage](/Stages/elaboration.md) | [Delivery Stage](/Stages/delivery.md) |
 | ----- | ------------ | - | - | - | - |
 | [Architecture Plan](/Artefacts/arch-plan.md) | Advice |  | assess update  | assess update  | assess update |
 | [Information Security Plan](/Artefacts/sec-plan) | Manage | Optional Plan update | Optional Plan update |  Optional Plan update | Optional Plan update |
 | [Value Opportunity](/Artefacts/val-oppo.md) | Define information security risks | Initial risk assessment | Update risk assessment | | |
 | [Value Case](/Artefacts/val-case.md) | Define information security controls | | Initial set of controls | Updated set of controls | |
 | [API Design](/Artefacts/api-design.md) | Assess | | | Initial API Security Audit | API Security Audit |
-| [Development Case](/Artefacts/dev-case.md) | Review | | Initial Set of Security Measures | Updated Set of Security Measures |
+| [Development Case](/Artefacts/dev-case.md) | Review | | Initial Set of Security Measures | Updated Set of Security Measures | |
 | [Release Plan](/Artefacts/rel-plan.md) | Advice |  |  | assess update | assess update  |
 | [Prototype](/Artefacts/pro-review.md) | Review | | | Initial Vulnerability Scan | |
-| [Product Release](/Artefacts/rel-review.md) | Advice | | | | API Conformance Scan, Vulnerability Scan | 
+| [Product Release](/Artefacts/rel-review.md) | Advice | | | | API Conformance Scan, Vulnerability Scan |
 | [Risk List](/Artefacts/risklist.md) | Collaborate | joint effort | joint effort | joint effort | joint effort |
 | [Daily compliance](/Artefacts/dailyCompliance.md) | Manage | | | Specify Daily Security Checks | Daily Compliance Report |
 | [Monthly compliance](/Artefacts/monthlyCompliance.md) | Manage |  | | Specify Monthyl Security Checks | Monthly Compliance Report |
-| [Post Mortem ][pm] | Author report | | | | After major incident | 
+| [Post Mortem][pm] | Author report | | | | After major incident |
 
-[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Capabilities/overview.md)
+| | |
+| - | - |
+| *License*:</BR>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | [![LeanUP Logo](/images/leanupLogo-s.png)][nav] |
 
-*License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
-
-
+[nav]: /Capabilities/overview.md
 [pm]: /Artefacts/post-mortem.md

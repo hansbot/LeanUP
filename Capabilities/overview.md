@@ -1,10 +1,12 @@
 # Capabilities
 
+```text
 > First post : 24 June 2024
-
 > Last edit 25 June 2024
+```
 
-LeanUP defines six core capabilities. Note that multiple roles can be assigned to a single capability. During the lifetime of a product, involvement of (certain roles within) capabilities will vary. 
+LeanUP defines six core capabilities. Note that multiple roles can be assigned to a single capability. During the lifetime of a product, involvement of (certain roles within) capabilities will vary.
+
 1. [Governance](/Capabilities/governance.md)
 2. [Product Management](/Capabilities/product-mgt.md)
 3. [API Design](/Capabilities/design.md)
@@ -12,6 +14,8 @@ LeanUP defines six core capabilities. Note that multiple roles can be assigned t
 5. [Service Management](/Capabilities/service-mgt.md)
 6. [Information Security](/Capabilities/security.md)
 
-[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="150"/>](/Overview/leanup.md)
+| | |
+| - | - |
+| *License*:</BR>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | [![LeanUP Logo](/images/leanupLogo-s.png)][nav] |
 
-*License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+[nav]: /Overview/leanup.md
