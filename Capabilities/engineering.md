@@ -19,7 +19,8 @@ Without Digital engineering, there would be no digital product. Typically, teams
 | Artefact | Contribution | [Exploration Stage](/Stages/exploration.md) |[Discovery Stage](/Stages/discovery.md) | [Elaboration Stage](/Stages/elaboration.md) | [Delivery Stage](/Stages/delivery.md) |
 | ----- | ------------ | - | - | - | - |
 | [Architecture Plan](/Artefacts/arch-plan.md) | Comply |  |  |  | Suggest Improvements |
-| [Information Security Plan](/Artefacts/sec-plan) | Comply |  |  |  | Suggest Improvements |
+| [Information Security Plan](/Artefacts/sec-plan.md) | Comply |  |  |  | Suggest Improvements |
+| [Service Delivery Plan](/Artefacts/serdel-plan.md) |  |  |  |  |  |
 | [Value Opportunity](/Artefacts/val-oppo.md) |  |  |  |  |  |
 | [Value Case](/Artefacts/val-case.md) |  |  |  | Study |  |
 | [API Design](/Artefacts/api-design.md) | Advice | | Assess | Contribute | Contribute |
@@ -30,7 +31,8 @@ Without Digital engineering, there would be no digital product. Typically, teams
 | [Risk List](/Artefacts/risklist.md) | Collaborate | joint effort | joint effort | joint effort | joint effort |
 | [Daily compliance](/Artefacts/dailyCompliance.md) |  |  |  |  |  |
 | [Monthly compliance](/Artefacts/monthlyCompliance.md) | Review |  |  |  |  |
-| [Post Mortem][pm] | Advice |  |  |  |  |
+| [Service Dashboard](/Artefacts/service-dashboard.md) |  |  |  |  | Develop |
+| [Post Mortem][pm] | Advice |  |  |  | Analyze & Clarify events, suggest improvements |
 
 ## Core Engineering Practices
 

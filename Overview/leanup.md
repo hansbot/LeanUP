@@ -11,8 +11,8 @@ Similar to the original [Unified Process][up], the [LeanUP][leanup] defines 4 di
 
 | # | Stage | Purpose | Trigger |
 | ----------- | ----------- | ----------- | ----------- |
-| 1 | [Exploration](/Stages/exploration.md) | Alignment | [Business Opportunity](/Artefacts/bus-oppo.md) |
-| 2 | [Discovery](/Stages/discovery.md) | Scoping | [Business Case](/Artefacts/bus-case.md) |
+| 1 | [Exploration](/Stages/exploration.md) | Alignment | [Value Opportunity](/Artefacts/val-oppo.md) |
+| 2 | [Discovery](/Stages/discovery.md) | Scoping | [Value Case](/Artefacts/val-case.md) |
 | 3 | [Elaboration](/Stages/elaboration.md) | Design | [Development Case](/Artefacts/dev-case.md) |
 | 4 | [Delivery](/Stages/delivery.md) | Working Software | [Accepted Prototype](/Artefacts/pro-review.md) |
 

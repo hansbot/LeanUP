@@ -37,8 +37,8 @@ List of [References](/References/links.md)
 
 | | |
 | - | - |
-| *License*:</BR>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | [![LeanUP Logo](/images/leanupLogo-s.png)][nav] |
+| *License*:</BR>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | [![LeanUP Logo](images/leanupLogo-s.png)][nav] |
 
-[nav]: /Overview/leanup.md
+[nav]: Overview/leanup.md
 [up]: https://en.wikipedia.org/wiki/Unified_process
-[leanup]: /Overview/leanup.md
+[leanup]: Overview/leanup.md

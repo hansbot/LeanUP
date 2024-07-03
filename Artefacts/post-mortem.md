@@ -13,7 +13,7 @@ A [Post Mortem][pm] contains an extensive report on the incident or disaster tha
 
 | # | Title | Description |
 | - | - | - |
-| 1. | Summarize Facts | Capture the bare factuals of what has happened, when it happened, how it was responded to, who contributed, and how and when de service was restored. |
+| 1. | Summarize Facts | Capture the bare factuals of what has happened, when it happened, how it was responded to, who contributed, and how and when de service was restored.</BR>Adopt a classification system such as [this](/References/sec-incident.md). |
 | 2. | What led up | Often, something triggered the event, such as a change, or an outside event. |
 | 3. | Failure details | What caused the failure, and how was it captured in logging and alerting. |
 | 4. | Degradation | Who was affected how and for how long? How grave was it? Can we quantify the loss? |

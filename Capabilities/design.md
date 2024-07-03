@@ -26,17 +26,19 @@ In the [ADDR process model](/References/addr.md), API Design is a 4-stage proces
 | Artefact | Contribution | [Exploration Stage](/Stages/exploration.md) |[Discovery Stage](/Stages/discovery.md) | [Elaboration Stage](/Stages/elaboration.md) | [Delivery Stage](/Stages/delivery.md) |
 | ----- | ------------ | - | - | - | - |
 | [Architecture Plan](/Artefacts/arch-plan.md) | Manage |  | Optional Update | Optional Update | Optional Update |
-| [Information Security Plan](/Artefacts/sec-plan) | Advice |  | Optional Update Recommendation | Optional Update Recommendation | Optional Update Recommendation |
+| [Information Security Plan](/Artefacts/sec-plan.md) | Advise |  | Optional Update Recommendation | Optional Update Recommendation | Optional Update Recommendation |
+| [Service Delivery Plan](/Artefacts/serdel-plan.md) | Advise |  |  |  |  |
 | [Value Opportunity](/Artefacts/val-oppo.md) | Review | Assessment |  |  |  |
-| [Value Case](/Artefacts/val-case.md) | Advice |  | Review Initial Version | Review Updated Version |  |
+| [Value Case](/Artefacts/val-case.md) | Advise |  | Review Initial Version | Review Updated Version |  |
 | [API Design](/Artefacts/api-design.md) | Manage | API Style, Boundaries | API Skeleton | API Design | Refined API Design |
 | [Development Case](/Artefacts/dev-case.md) | Manage |  | Author Initial Version | Update Initial Version | Maintain |
-| [Release Plan](/Artefacts/rel-plan.md) | Advice |  |  | Influence | Influence |
-| [Prototype](/Artefacts/pro-review.md) | Advice |  |  |  | Assessment |
+| [Release Plan](/Artefacts/rel-plan.md) | Advise |  |  | Influence | Influence |
+| [Prototype](/Artefacts/pro-review.md) | Advise |  |  |  | Assessment |
 | [Product Release](/Artefacts/rel-review.md) | Review |  |  |  | Assessment |
 | [Risk List](/Artefacts/risklist.md) | Collaborate | joint effort | joint effort | joint effort | joint effort |
 | [Daily compliance](/Artefacts/dailyCompliance.md) | none |  |  |  |  |
 | [Monthly compliance](/Artefacts/monthlyCompliance.md) | none |  |  |  |  |
+| [Service Dashboard](/Artefacts/service-dashboard.md) | none |  |  |  |  |
 | [Post Mortem][pm] | Review |  |  |  | Assessment |
 
 ## Resource Modeling Practice

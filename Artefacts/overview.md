@@ -11,19 +11,21 @@ Every organization has it's own way of working. Although I prefer to keep it as 
 
 This is a set of key artefacts to consider. In the [Capabilities](/Capabilities/overview.md) section, you'll find the contribution of a capabilty throughout the [Stages](/Stages/overview.md).
 
-1. Here's the outline for an [Architecture Plan](/Artefacts/arch-plan) artefact
-2. Here's the outline for an [Information Security Plan](/Artefacts/sec-plan) artefact
-3. Here's the outline for a [Value Opportunity](/Artefacts/val-oppo.md) artefact
-4. Here's the outline for a [Value Case](/Artefacts/val-case.md) artefact
-5. Here's the outline for a [API Design](/Artefacts/api-design.md) artefact
-6. Here's the outline for a [Development Case](/Artefacts/dev-case.md) artefact
-7. Here's the outline for an [Release Plan](/Artefacts/rel-plan) artefact
-8. Here's the outline for a [API Prototype](/Artefacts/pro-review.md) review artefact
-9. Here's the outline for an [API Release](/Artefacts/rel-review) review artefact
-10. Here's the outline for a [Risk List](/Artefacts/risklist.md) artefact
-11. Here's the outline for a [Daily Compliance](/Artefacts/dailyCompliance.md) report
-12. Here's the outline for a [Monthly Compliance](/Artefacts/monthlyCompliance.md) report
-13. Here's the outline for a [Post Mortem](/Artefacts/post-mortem.md) report
+1. Here's the outline for an [Architecture Plan](/Artefacts/arch-plan.md) artefact
+2. Here's the outline for an [Information Security Plan](/Artefacts/sec-plan.md) artefact
+3. Here's the outline for a [Service Delivery Plan](/Artefacts/service-report.md)
+4. Here's the outline for a [Value Opportunity](/Artefacts/val-oppo.md) artefact
+5. Here's the outline for a [Value Case](/Artefacts/val-case.md) artefact
+6. Here's the outline for a [API Design](/Artefacts/api-design.md) artefact
+7. Here's the outline for a [Development Case](/Artefacts/dev-case.md) artefact
+8. Here's the outline for an [Release Plan](/Artefacts/rel-plan) artefact
+9. Here's the outline for a [API Prototype](/Artefacts/pro-review.md) review artefact
+10. Here's the outline for an [API Release](/Artefacts/rel-review.md) review artefact
+11. Here's the outline for a [Risk List](/Artefacts/risklist.md) artefact
+12. Here's the outline for a [Daily Compliance](/Artefacts/dailyCompliance.md) report
+13. Here's the outline for a [Monthly Compliance](/Artefacts/monthlyCompliance.md) report
+14. Here's the outline for a [Service Dashboard](/Artefacts/service-report.md)
+15. Here's the outline for a [Post Mortem](/Artefacts/post-mortem.md) report
 
 | | |
 | - | - |

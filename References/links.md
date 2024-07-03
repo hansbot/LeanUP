@@ -2,6 +2,7 @@
 
 ## A
 
+- [ADDR Model](/References/addr.md)
 - [API Definition](/api.md)
 - [API Design Capability](/Capabilities/design.md)
 - [API Design Artefact](/Artefacts/api-design.md)
@@ -84,6 +85,9 @@
 
 ## S
 
+- [Service Dashboard](/Artefacts/service-dashboard.md)
+- [Service Delivery Plan](/Artefacts/serdel-plan.md)
+- [Security Incident Classification](/References/sec-incident.md)
 - [Service Management](/Capabilities/service-mgt.md)
 - [Stages](/Stages/overview.md)
 

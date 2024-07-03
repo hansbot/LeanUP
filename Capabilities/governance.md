@@ -22,17 +22,19 @@ Much of the [Governance](/Capabilities/governance.md) responsibitities is about 
 | Artefact | Contribution | [Exploration Stage](/Stages/exploration.md) |[Discovery Stage](/Stages/discovery.md) | [Elaboration Stage](/Stages/elaboration.md) | [Delivery Stage](/Stages/delivery.md) |
 | ----- | ------------ | - | - | - | - |
 | [Architecture Plan](/Artefacts/arch-plan.md) | Approve |  |  |  |  |
-| [Information Security Plan](/Artefacts/sec-plan) | Guide |  |  |  |  |
+| [Information Security Plan](/Artefacts/sec-plan.md) | Approve |  |  |  |  |
+| [Service Delivery Plan](/Artefacts/serdel-plan.md) | Approve |  |  |  |  |
 | [Value Opportunity](/Artefacts/val-oppo.md) | Approve |  |  |  |  |
 | [Value Case](/Artefacts/val-case.md) | Guide |  |  |  |  |
-| [API Design](/Artefacts/api-design.md) | Approve | | | | |
+| [API Design](/Artefacts/api-design.md) | Direct | | | | |
 | [Development Case](/Artefacts/dev-case.md) | Approve |  |  |  |  |
 | [Release Plan](/Artefacts/rel-plan.md) | Approve |  |  |  |  |
 | [Prototype](/Artefacts/pro-review.md) | Direct |  |  |  |  |
 | [Product Release](/Artefacts/rel-review.md) | Direct |  |  |  |  |
 | [Risk List](/Artefacts/risklist.md) | Decide | joint effort | joint effort | joint effort | joint effort |
-| [Daily compliance](/Artefacts/dailyCompliance.md) | Notice |  |  |  |  |
-| [Monthly compliance](/Artefacts/monthlyCompliance.md) | Assess |  |  |  |  |
+| [Daily Compliance](/Artefacts/dailyCompliance.md) | Notice |  |  |  |  |
+| [Monthly Compliance](/Artefacts/monthlyCompliance.md) | Assess |  |  |  |  |
+| [Service Dashboard](/Artefacts/service-dashboard.md) | Direct |  |  |  |  |
 | [Post Mortem][pm] | Guide |  |  |  |  |
 
 | | |
