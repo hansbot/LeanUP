@@ -15,7 +15,15 @@ Risks are mostly not product-specific. Therefore, it makes sense to keep a list 
 
 ## Controls
 
-To translate risks into action, keep a list of standard controls. Organize your controls in categories, such as "people", "physical objects", "organization", "process", and "technology". A single risk will often require controls in multiple categories. Where possibly, define for each control the required proof.
+To translate risks into action, keep a list of standard controls. Organize your controls in categories, such as:
+
+- people
+- physical objects
+- organization
+- process, and
+- technology.
+
+A single risk will often require controls in multiple categories. Where possibly, define for each control the required proof.
 
 ## Information Security Policy
 

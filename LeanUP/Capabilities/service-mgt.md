@@ -2,7 +2,7 @@
 
 ```text
 > First post : 24 June 2024
-> Last edit : 2 July 2024
+> Last edit : 8 July 2024
 ```
 
 Service Management is a competence that assures services are delivered conform service level agreements and/or service level expectations. This includes the experience developers using APIs and Platform perceive, interactions with API consumers, self-healing and pro-active notification of service degradations.
@@ -19,6 +19,8 @@ Service Management is a competence that assures services are delivered conform s
 ## Service Delivery Process
 
 The Service Delivery Process is heavily dependent of the kind of client engagement model is in place. However, basic service delivery is always needed. Sometimes, there's a service integration process on top.
+
+The main LeanUP deliverable is the [API Client Kit](/Artefacts/client-kit.md). This document defines the recurring artefacts Service Delivery produces during the lifetime of the API.
 
 ### Basic Operational Services
 
@@ -55,6 +57,7 @@ The Service Delivery Process is heavily dependent of the kind of client engageme
 | [Development Case](/LeanUP/Artefacts/dev-case.md) | Advise |  | Manageability Assessment | Manageability Assessment |  |
 | [Release Plan](/LeanUP/Artefacts/rel-plan.md) | Review |  |  | Impact Assessment | Impact Assessment |
 | [Prototype](/LeanUP/Artefacts/pro-review.md) | Review |  |  | Test Report |  |
+| [API Client Kit](/LeanUP/Artefacts/client-kit.md) | Manage |  |  | Initiate | Maintain |
 | [Product Release](/LeanUP/Artefacts/rel-review.md) | Advise |  |  |  | Release Advice |
 | [Risk List](/LeanUP/Artefacts/risklist.md) | Collaborate | joint effort | joint effort | joint effort | joint effort |
 | [Daily Compliance](/LeanUP/Artefacts/dailyCompliance.md) |  |  |  |  | Evidence Gathering |

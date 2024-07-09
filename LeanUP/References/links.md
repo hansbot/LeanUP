@@ -3,6 +3,7 @@
 ## A
 
 - [ADDR Model](/LeanUP/References/addr.md)
+- [API Client Kit](/LeanUP/Artefacts/client-kit.md)
 - [API Definition](/LeanUP/api.md)
 - [API Design Capability](/LeanUP/Capabilities/design.md)
 - [API Design Artefact](/LeanUP/Artefacts/api-design.md)

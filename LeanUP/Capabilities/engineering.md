@@ -5,7 +5,9 @@
 > Last edit : 1 July 2024
 ```
 
-Without Digital engineering, there would be no digital product. Typically, teams are separated into a platform engineering or site reliability engineering teams and digital solution teams, including front-end engineering and back-end engineering.
+Without [Digital Engineering][self], there would be no digital product. Typically, teams are separated into a platform engineering or site reliability engineering teams and digital solution teams, including front-end engineering and back-end engineering or system integration.
+
+With the popularity of shifting left, digital engineers not only responsible for working code, including an optimized data model, but also for the quality of their code, for the security of their code, for east-west integration, for building and delivering the digital assets, and for defining the desired state of their digital products. Obviously, engineering is teamwork, so not every individual engineer needs to be proficient in every discipline.
 
 ## Core Responsibilities
 
@@ -56,3 +58,4 @@ Especially when you're targeting a cloud-based target architecture, practising D
 
 [pm]: /LeanUP/Artefacts/post-mortem.md
 [leanup]: /LeanUP/Overview/leanup.md
+[self]: /LeanUP/Capabilities/engineering.md

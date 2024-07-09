@@ -30,9 +30,20 @@ Usually, the answers have a significant degree of uncertainty. Timing is often a
 
 An objective adds a quantification to a goal. A goal can have multiple objectives, and an objective can serve multiple goals. Having a discrete set of objectives helps to measure future success. When circumstances change, reconsidering the objectives is a first step in reprioritizing the initiative.
 
+## Viability
+
+A Value Case established the viability of the [Value Opportunity][oppo], by assessing
+
+- the economics of the case<br>This includes metrics like the opportunity cost estimation, the estimated market potential, the savings potential, and the estimated costs of delay
+- the availability of the digital technology<br>Building upon existing digital assets is less risky, has a shorter time to market, and is easier to deliver. Alternatively, assess the risks, timelines and dependencies of closing the gap
+- other investment costs<br>Think of training, marketing, sales, and development of the support systems and services
+- demand for resources in relation to its potential supply<br>Necessary resources may range from office space to critical subject matter experts
+
 ## Relation to other Artefacts
 
 The [Information Security Plan](/LeanUP/Artefacts/sec-plan) defines a standard list of information security risks to consider
+
+The Value Case might be used as input for an RFI.
 
 | *License* | Navigate |
 | - | - |

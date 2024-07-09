@@ -2,7 +2,7 @@
 
 ```text
 > First post : 24 June 2024
-> Last edit : 26 June 2024
+> Last edit : 8 July 2024
 ```
 
 ## Core Responsibilities
@@ -36,6 +36,7 @@ A typical security process is a pdca-like continuous improvement cycle. The 4 ph
 | [Development Case](/LeanUP/Artefacts/dev-case.md) | Review | | Initial Set of Security Measures | Updated Set of Security Measures | |
 | [Release Plan](/LeanUP/Artefacts/rel-plan.md) | Advise |  |  | assess update | assess update  |
 | [Prototype](/LeanUP/Artefacts/pro-review.md) | Review | | | Initial Vulnerability Scan | |
+| [API Client Kit](/LeanUP/Artefacts/client-kit.md) |  |  |  |  |  |
 | [Product Release](/LeanUP/Artefacts/rel-review.md) | Advise | | | | API Conformance Scan, Vulnerability Scan |
 | [Risk List](/LeanUP/Artefacts/risklist.md) | Collaborate | joint effort | joint effort | joint effort | joint effort |
 | [Daily Compliance](/LeanUP/Artefacts/dailyCompliance.md) | Manage | | | Specify Daily Security Checks | Daily Compliance Report |

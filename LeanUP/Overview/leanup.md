@@ -2,10 +2,12 @@
 
 ```text
 > First post : 20 June 2024
-> Last edit : 3 July 2024
+> Last edit : 8 July 2024
 ```
 
-Unlike the original [Unified Process][leanup], which is project oriented, the Lean Unified Process, or [LeanUP][leanup], is product oriented. Thereby, it is closer aligned to modern agile frameworks. It also aligns with the widespread belief that APIs should be managed as a product.
+Unlike the original [Unified Process][leanup], which is project oriented, the Lean Unified Process, or [LeanUP][leanup], is product oriented. Thereby, it is closer aligned to modern agile frameworks.
+
+LeanUP also aligns with the widespread belief that APIs should be managed as a product throughout their entire lifecycle. Offering an API as an interface to your product assumes you need to arrange for support and interaction with consumers of the interface – both developers, service managers and owners of the client application.
 
 Similar to the original [Unified Process][up], the [LeanUP][leanup] defines 4 distinct increments. known as *stages*. These stages are designed to rapidly drive down risks, and fail early when necessary.
 
@@ -29,7 +31,7 @@ The "disciplines" in the original are replaced with 6 Core Capabilities.
 - [Service Management](/LeanUP/Capabilities/service-mgt.md)
 - [Information Security](/LeanUP/Capabilities/security.md)
 
-Notice that the prefix [API](api.md) here defines what makes the process Lean, by focussing on Interfaces rather than the insides of a bounded context. This opens the door for a more informal way of working during the delivery phase. The [LeanUP][leanup] just sets the guardrails and controls the boundaries.
+Notice that the prefix [API](api.md) here defines what makes the process Lean, by focussing on Interfaces rather than the insides of a bounded context. This opens the door for a more informal way of working during the delivery stage. The [LeanUP][leanup] just sets the guardrails and controls the boundaries.
 
 *License*:</BR>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 

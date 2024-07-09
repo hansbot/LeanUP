@@ -7,7 +7,7 @@
 
 ## Motivation
 
-I am far from the first to notice that the monikers “API First”, and “API-Design First” are a bit of a misnomer. Even API-Specification First is off. If you think of the entire development process, it starts way earlier than with the ‘Design’. Rather, it starts with an idea or an opportunity. In any healthy organization, there are many value opportunities, of which only some come to fruition. There’s a business development funnel, much like the better known sales funnel. We should recognize that common practice in our development approach for our digital products.
+I am far from the first to notice that the monikers “API First”, and “API-Design First” are a bit of a misnomer. Even API-Specification First is off. If you think of the entire development process, it starts way earlier than with its ‘Design’. Rather, it starts with an idea or an opportunity. In any healthy organization, there are many value opportunities, of which only some come to fruition. There’s a digital product development funnel, much like the better known sales funnel. We should recognize that common practice in our development approach for our APIs too.
 
 ## Inspiration
 
@@ -23,7 +23,7 @@ After years of struggling to invent a *Scaling Agile* practice, the *waste* in d
 
 ## My Proposal
 
-I believe it is time to reinvent the [Unified Process][up], and to tune it to the needs of today #LeanupRUP. I believe API design must become a core piece of the new [Unified Process][up]. In the spirit of API-Design First, getting control over interface design pretty much gives you leverage over the entire development process. API-Design First yields clear bounded contexts, promoting composable software that is easy to maintain.
+I believe it is time to reinvent the [Unified Process][up], and to tune it to the needs of today #LeanUP. I believe API design must become a core piece of the new [Unified Process][up]. In the spirit of API-Design First, getting control over interface design pretty much gives you leverage over the entire development process. API-Design First yields clear bounded contexts, promoting composable software that is easy to maintain. Moreover, it provides full integration agility.
 
 More modern practices are helping to drive down product developement risks earlier in the process. Shift Left comes to mind. The Cloud-native computing principles too. And, of course, there's the widespread availability of APIs you can instantly compose into your product.
 
@@ -38,7 +38,7 @@ Here's the [LeanUP][leanup] Product Positioning Statement.
 | **LeanUP** | Is a useful guide |
 | **That** | Merges LEAN principles with the Unified Process |
 | **Unlike** | Either the Rational Unified Process or Scaling Agile initiatives |
-| **Our Product** | Brings a risk-driven, well-governed approach to LEAN/Agile product development while driving the Waste out of the Unified Process |
+| **Our Product** | Brings a risk-driven, integration-agile, well-governed approach to LEAN/Agile digital product development, while driving the Waste out of the Unified Process |
 
 ## Contents
 

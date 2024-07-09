@@ -2,7 +2,7 @@
 
 ```text
 > First post : 24 June 2024
-> Last edit : 1 July 2024
+> Last edit : 9 July 2024
 ```
 
 ## Core Responsibilities
@@ -19,21 +19,32 @@ API Design is the core of the LeanUP. After all, having the right APIs at the le
 
 Furthermore, API Design must be firmly rooted in the overal Architecture. At the same time, API Design is an excellent opportunity to validate and potentially update the overal Architecture, in order to fit changing needs, or put newer technologies to good use.
 
-In the [ADDR process model](/LeanUP/References/addr.md), API Design is a 4-stage process, which maps nicely on [LeanUP][leanup].  
+Finally, the API Design process includes initiating the API Client Kit. This includes all the relevant information for developers of the client application, service managers of the client application, and also for owners of the client application.
+
+In the [ADDR process model](/LeanUP/References/addr.md), API Design is a 4-stage process, which maps nicely on [LeanUP][leanup].
+
+Importantly, design is never done. An essential part in the design process is a regular evaluation of the outcome to define improvements and to learn lessons for future designs.
+
+## Tradeoffs
+
+Driving architectural discussions to a decision can be a daunting task. The [Architecture Tradeoff Analysis Method](/LeanUP/References/ATAM.pdf), as published by the Software Engineering Institute of Carnegie Mellon University, has certainly aged nicely, and is still considered a best practice. It is particularly known for creating commitment among the stakeholders involved for the choice being joinly made.
+
+In short, stakeholders define a set of criteria to base the decision on. The architect defines a few solution alternatives, and scores those on the criteria as defined. Next, in a meeting, stakholders discuss the criteria and each give them a weight or priority (e.g. distribute 20 points over 10 criteria any way you see fit). This is added to a shared weight. The weighted scores rank the solution alternatives.
 
 ## Contribution to LeanUP
 
 | Artefact | Contribution | [Exploration Stage](/LeanUP/Stages/exploration.md) |[Discovery Stage](/LeanUP/Stages/discovery.md) | [Elaboration Stage](/LeanUP/Stages/elaboration.md) | [Delivery Stage](/LeanUP/Stages/delivery.md) |
 | ----- | ------------ | - | - | - | - |
-| [Architecture Plan](/LeanUP/Artefacts/arch-plan.md) | Manage |  | Optional Update | Optional Update | Optional Update |
-| [Information Security Plan](/LeanUP/Artefacts/sec-plan.md) | Advise |  | Optional Update Recommendation | Optional Update Recommendation | Optional Update Recommendation |
-| [Service Delivery Plan](/LeanUP/Artefacts/serdel-plan.md) | Advise |  |  |  |  |
+| [Architecture Plan](/LeanUP/Artefacts/arch-plan.md) | Manage | Used for Guidance | Optional Update | Optional Update | Optional Update |
+| [Information Security Plan](/LeanUP/Artefacts/sec-plan.md) | Advise | Used for Guidance | Optional Update Recommendation | Optional Update Recommendation | Optional Update Recommendation |
+| [Service Delivery Plan](/LeanUP/Artefacts/serdel-plan.md) | Advise |  |  |  | Assess feasibility of the service intents |
 | [Value Opportunity](/LeanUP/Artefacts/val-oppo.md) | Review | Assessment |  |  |  |
 | [Value Case](/LeanUP/Artefacts/val-case.md) | Advise |  | Review Initial Version | Review Updated Version |  |
 | [API Design](/LeanUP/Artefacts/api-design.md) | Manage | API Style, Boundaries | API Skeleton | API Design | Refined API Design |
 | [Development Case](/LeanUP/Artefacts/dev-case.md) | Manage |  | Author Initial Version | Update Initial Version | Maintain |
 | [Release Plan](/LeanUP/Artefacts/rel-plan.md) | Advise |  |  | Influence | Influence |
 | [Prototype](/LeanUP/Artefacts/pro-review.md) | Advise |  |  |  | Assessment |
+| [API Client Kit](/LeanUP/Artefacts/client-kit.md) | Advise |  |  |  | Assess Completeness and Correctness |
 | [Product Release](/LeanUP/Artefacts/rel-review.md) | Review |  |  |  | Assessment |
 | [Risk List](/LeanUP/Artefacts/risklist.md) | Collaborate | joint effort | joint effort | joint effort | joint effort |
 | [Daily compliance](/LeanUP/Artefacts/dailyCompliance.md) | none |  |  |  |  |
