@@ -5,6 +5,8 @@
 > Last edit 25 June 2024
 ```
 
+A Capability represents an ability a person, or a group of people, possesses.
+
 LeanUP defines six core capabilities. Note that multiple roles can be assigned to a single capability. During the lifetime of a product, involvement of (certain roles within) capabilities will vary.
 
 1. [Governance](/LeanUP/Capabilities/governance.md)

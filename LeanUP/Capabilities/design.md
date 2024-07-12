@@ -1,4 +1,4 @@
-# Design Capability
+# API Design Capability
 
 ```text
 > First post : 24 June 2024
@@ -59,6 +59,7 @@ While creating a resource model for your APIs, you face bridging the worlds of A
 It is the responsibility of the API Designer to come up with a smart interface design.
 
 There are multiple ways to go about this. Here are three commonly used ones, with some pros and cons.
+
 | # | Approach | Explanation | Pros | Cons |
 |- |- |- | -|-|
 | 1. | Backend-for-Frontend | Engineering a separate layer of integration microservices as glueware between the system services and the frontends. | Versatile, No additional technology required | At scale, integration can become a bottleneck. Difficult to govern |
@@ -66,6 +67,7 @@ There are multiple ways to go about this. Here are three commonly used ones, wit
 | 3. | API Virtualization | Running your customization logic on an API Gateway | Single point of Access, Flexible, Easy to manage, Transparent | Additional technology |
 
 To quote Werner Vogels,
+
 > Being conservative and minimalistic in your API design helps you build fundamental tools on which you may be able to add more functionality, or which partners can build layers on top of.
 
 Having a generic base, with a layer of differentiation on top, makes common sense. The API Design Language, be it OpenAPI, or AsyncAPI, facilitates capturing a significant part of this differentation right in the API Specification. This also works for 3rd-party APIs.

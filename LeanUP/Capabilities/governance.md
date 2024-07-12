@@ -5,7 +5,9 @@
 > Last edit : 8 July 2024
 ```
 
-Much of the [Governance](/LeanUP/Capabilities/governance.md) responsibitities is about creating the conditions for an organization to survive and thrive. Thereby, it is conditional for Product Development. In the context of the LeanUP process, Governance is about **Shaping**, **Guiding** and **Guarding** Product Development.
+[Governance][self] forms the linking pin between general management and product management. It is bidirectional in nature, creating conditions and setting rules and guidelines on the one hand, and harvesting from practice on the other.
+
+Much of the [Governance][self] responsibitities is about creating the conditions for an organization to survive and thrive. Thereby, it is conditional for Product Development. In the context of the LeanUP process, Governance is about **Shaping**, **Guiding** and **Guarding** Product Development.
 
 ## Core Responsibilities
 
@@ -14,7 +16,7 @@ Much of the [Governance](/LeanUP/Capabilities/governance.md) responsibitities is
 | Direction | Overall Leadership, Mission, Vision, and Culture. |
 | Market Analysis | Competition, Market Dynamics, SWOT Analysis. |
 | Value Chain Management | Coalition Building, Supplier Management, Customer Relationship Management. |
-| Organization | Mergers and Aquisitions, Capability and Talent Development, Human Resource Management. |
+| Organization | Mergers and Aquisitions, Collaborations, Capability and Talent Development, Human Resource Management. |
 | Business Development Planning | Translating Vision into Action. |
 | Business Process Management | Optimizing Flow and Takt, Business Continuity. |
 | Roadmap Planning | Setting a common pace for program increments. |
@@ -45,3 +47,4 @@ Much of the [Governance](/LeanUP/Capabilities/governance.md) responsibitities is
 |Common Criteria</BR>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | [![LeanUP Logo](/LeanUP/Images/leanupLogo-s.png)](/LeanUP/Capabilities/overview.md) |
 
 [pm]: /LeanUP/Artefacts/post-mortem.md
+[self]: /LeanUP/Capabilities/governance.md
