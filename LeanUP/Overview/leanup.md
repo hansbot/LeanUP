@@ -9,7 +9,7 @@ Unlike the original [Unified Process][leanup], which is project oriented, the Le
 
 LeanUP also aligns with the widespread belief that APIs should be managed as a product throughout their entire lifecycle. Offering an API as an interface to your product assumes you need to arrange for support and interaction with consumers of the interface – both developers, service managers and owners of the client application.
 
-Similar to the original [Unified Process][up], the [LeanUP][leanup] defines 4 distinct increments. known as *stages*. These stages are designed to rapidly drive down risks, and fail early when necessary.
+Similar to the original [Unified Process][up], the [LeanUP][leanup] defines 4 distinct increments. known as *stages*. These stages are designed to rapidly drive down risks, and fail early when necessary. Every stage transition is marked by a [milestone](/LeanUP/Overview/milestones.md).
 
 | # | Stage | Purpose | Trigger |
 | ----------- | ----------- | ----------- | ----------- |

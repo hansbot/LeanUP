@@ -2,7 +2,7 @@
 
 ```text
 > First post : 2 July 2024
-> Last edit : 11 July 2024
+> Last edit : 17 July 2024
 ```
 
 An API Design is the contract between the supplier and the consumer. Just like a legal contract, the more explicit the contract is, the more valuable it is. Whenever you leave room for interpretation, you plant a seed for misunderstanding, broken expectations, and such. It is easy to underestimate the time and care it takes to finalize an API contract.
@@ -11,7 +11,9 @@ An API Design is the contract between the supplier and the consumer. Just like a
 “Show me your APIs, and I'll tell you what company you are”
 ```
 
-> *Hans "the human" Bot*
+> *Hans "Human" Bot*
+
+APIs are designed incrementally. The [ADDR](/LeanUP/References/addr.md) is a useful guide for incremental API Design.
 
 ## Resources
 
@@ -33,9 +35,9 @@ Naming your APIs, resources, and their properties is much more important than it
 
 Even if you ignore the marketing value, having a clear name will help people find and remember you API more easily. It helps to communicatie the potential value your API has on offer.
 
-Being consistent in your naming, inside an API and across your APIs, will –consiously or not– contribute to a solid image of your business. Conversely, being sloppy at naming will reflect negatively in your image. Defining your [ubiqitous language](/LeanUP/References/ddd.md) will contribute to clarity and consistency.
+Being consistent in your naming, inside an API and across your APIs, will –consiously or not– contribute to a solid image of your business. It doesn't really matter if you choose camelCase, PascalCase, snake_case, or kebab-case, as long as you do it consistently – across parameters, resources, objects, properties, scopes, tags, operationIds, what have you. Conversely, being sloppy at naming will reflect negatively in your image. Defining your [ubiqitous language](/LeanUP/References/ddd.md#concept-2-ubuquitous-language) for each domain will contribute to clarity and consistency – especially when you also define the [context map](/LeanUP/References/ddd.md#concept-4-context-mapping).
 
-By the way, consistency is also about the constitution of your names. Think of prefixes and suffixes. You can use «dateOfBirth» or «birthdate» or «dob», but it will confuse your users if you haphazardly mix them up. Don't call something a date when it includes a time. Also think of casing, dashing, and other forms of concatenation. Finally, think about your formats and precision. Use international standards, such as ISO-8601, for dates, units, and geolocation. Refrain from abberations such as the Islamic Calendar, Fahrenheit, and mm-dd-yyyy, or at least give users the option to interact using a widely used standard.
+By the way, consistency is also about the constitution of your names. Think of prefixes and suffixes. You can use «dateOfBirth» or «birthdate» or «dob», but it will confuse your users if you haphazardly mix them up. Don't call something a date when it includes a time. Finally, think about your formats and precision. Use international standards, such as ISO-8601, for dates, units, and geolocation. Refrain from abberations such as the Islamic Calendar, Fahrenheit, and mm-dd-yyyy, or at least give users the option to interact using a widely used standard.
 
 Despite the push for using local languages, I recommend using English names whenever possible. The reason is simple. Developers write there code in a computer language derived from English. Forcing them to use a different language in their code will slow development, increase the rate of errors, and contribute to stress, especially when your local language is not their native language. There will be exceptions, such as product names and legal concepts, that would be awkward in translation. But other than that, language switching is a burden better avoided.
 

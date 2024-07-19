@@ -5,7 +5,7 @@
 > Last edit : 25 June 2024
 ```
 
-A [Value Case](/LeanUP/Artefacts/val-case.md) artefact has the specification of the Value value and costs for the proposed product development.
+An intial [Value Case][self] artefact is a milestone document, marking the end of the [Exploration Stage](/LeanUP/Stages/exploration.md) and the beginning of the [Discovery Stage](/LeanUP/Stages/discovery.md). It has a first estimation of the value and costs for the proposed product development. It helps decide the right things to develop.
 
 ## Questions to Answer
 
@@ -32,7 +32,7 @@ An objective adds a quantification to a goal. A goal can have multiple objective
 
 ## Viability
 
-A Value Case established the viability of the [Value Opportunity][oppo], by assessing
+A [Value Case][self] established the viability of the [Value Opportunity][oppo], by assessing
 
 - the economics of the case<br>This includes metrics like the opportunity cost estimation, the estimated market potential, the savings potential, and the estimated costs of delay
 - the availability of the digital technology<br>Building upon existing digital assets is less risky, has a shorter time to market, and is easier to deliver. Alternatively, assess the risks, timelines and dependencies of closing the gap
@@ -43,7 +43,7 @@ A Value Case established the viability of the [Value Opportunity][oppo], by asse
 
 The [Information Security Plan](/LeanUP/Artefacts/sec-plan) defines a standard list of information security risks to consider
 
-The Value Case might be used as input for an RFI.
+The [Value Case][self] might be used as input for an RFI.
 
 | *License* | Navigate |
 | - | - |
@@ -51,3 +51,4 @@ The Value Case might be used as input for an RFI.
 
 [oppo]: /LeanUP/Artefacts/val-oppo.md
 [discovery]: /LeanUP/Stages/discovery.md
+[self]: /LeanUP/Artefacts/val-case.md
