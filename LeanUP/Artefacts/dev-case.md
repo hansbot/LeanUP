@@ -2,10 +2,10 @@
 
 ```text
 > First post : 21 June 2024
-> Last edit : 24 June 2024
+> Last edit : 14 August 2024
 ```
 
-A [Development Case][self] artefact is a milestone document. Acceptance of a baseline version marks the end of the [Discovery stage][disc] and the beginning of the [Elaboration Stage](/LeanUP/Stages/elaboration.md). The case outlines the development plan for the proposed product development, with a strong focus on the definition of the [interfaces](/LeanUP/api.md). It helps to develop things the right way.
+A [Development Case][self] artefact is a milestone document. Acceptance of a baseline version marks the end of the [Discovery stage][disc] and the beginning of the [Elaboration Stage](/LeanUP/Stages/elaboration.md). The case outlines the development plan for the proposed product development, with a strong focus on the definition of the [interfaces](/LeanUP/api.md). It helps to develop things the right way. It compares to a [Solution Intent](https://v5.scaledagileframework.com/solution-intent/), but with a firm focus on [APIs](/LeanUP/api.md).
 
 ## Questions to Answer
 

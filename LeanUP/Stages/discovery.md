@@ -2,7 +2,7 @@
 
 ```text
 > First post : 20 June 2024
-> Last edit : 21 June 2024
+> Last edit : 12 Sep 2024
 ```
 
 ## Ownership
@@ -20,14 +20,18 @@
 
 - [Value Opportunity][oppo]
 
+## Methods
+
+- ATAM Workshop.<br>The [Architecture Tradeoff Analysis Method](/LeanUP/References/ATAM.pdf) was first published by the Software Engineering Institute of the Carnegie Mellon University. It is well-known for its proven, methodical approach to create alignment among, and commitment from the stakeholders for the high-level design decisions taken.
+- Value Stream Mapping.<br>Value-stream mapping (VSM) is a fundamental lean practice that involves diagraming a value stream, which includes all the actions (value-creating and nonvalue-creating)  needed to move a product or service from raw material to the arms of the customer, including the material and information flow. Lean practitioners use the process and the resulting map to identify and eliminate waste.<br>![Example Value Stream Map](/LeanUP/Images/value-stream.png)
+- Event-storming Workshop<br>Event Storming is a technique from Domain-Driven Design, to help demarcate the solution domains.
+
 ## Outcome
 
-- Feasibility of the [Value Opportunity][oppo] has been established
-- If feasible, then
-  - the scope of the [Value Opportunity][oppo] has been defined.
-  - the [Value Case][valcase] has been refined
+- The [Value Case][case] is refined and its viability has been established
+- If viable, then
   - the initial [Development Case][devcase] has been accepted
-  - the initial [Product Risk List](/LeanUP/Artefacts/risklist.md) has been established
+  - the [Product Risk List](/LeanUP/Artefacts/risklist.md) has been updated
 
 ## Delivery Risk Reduction
 
@@ -41,6 +45,5 @@ Based on the findings, the Product Architect makes a recommendation to the Produ
 | - | - |
 |Common Criteria:</BR>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | [![LeanUP Logo](/LeanUP/Images/leanupLogo-s.png)](/LeanUP/Stages/overview.md) |
 
-[oppo]: /LeanUP/Deliverables/val-oppo.md
 [devcase]: /LeanUP/Deliverables/dev-case.md
 [valcase]: /LeanUP/Deliverables/val-case.md

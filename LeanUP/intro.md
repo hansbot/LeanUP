@@ -11,13 +11,13 @@ I am far from the first to notice that the monikers “API First”, and “API-
 
 ## Inspiration
 
-James Higginbotham has become famous for outlining the ADDR-process for API-Design First. I fully understand why his proposed method fell on fertile ground. It simply gave word to the experience many of us, API designers, shared. His phases – align, define, design and refine – instantly reminded me of the [Unified Process][up]’s stages – inception, elaboration, construction, transition. The Unified Process was theoretically well underpinned. Everything meaningful we construct, be it an airplane, a bridge, or a nuclear power plant, roughly follows the same process journey. Why would software development be different? 
+James Higginbotham has become famous for outlining the ADDR-process for API-Design First. I fully understand why his proposed method fell on fertile ground. It simply gave word to the experience many of us, API designers, shared. His phases – align, define, design and refine – instantly reminded me of the [Unified Process][up]’s stages – inception, elaboration, construction, transition. The Unified Process was theoretically well underpinned. Everything meaningful we construct, be it an airplane, a bridge, or a nuclear power plant, roughly follows the same process journey. Why would software development be different?
 
 Think about it. API Design starts well before the software development, at a time when perhaps the domain is yet unknown, the API style still needs to be established, and the devops team still needs to be designated. Yet, you cannot design in splendid isolation. That's where the [Unified Process][up] comes in. You need multiple disciplines to contribute to the early design phases of an API.
 
 ## Further Considerations
 
-I know, we’re all supposed to be agile, nowadays. We don’t want to make a big design upfront. But there’s also no denying that the agile software construction typically starts halfway the entire development lifecycle, after some pretty fundamental design decisions have already been taken, and after some form of value case has already been established. There are already domains defined, teams formed, budgets allocated and accountabilities established. Perhaps even timelines set. You get the picture. 
+I know, we’re all supposed to be agile, nowadays. We don’t want to make a big design upfront. But there’s also no denying that the agile software construction typically starts halfway the entire development lifecycle, after some pretty fundamental design decisions have already been taken, and after some form of value case has already been established. There are already domains defined, teams formed, budgets allocated and accountabilities established. Perhaps even timelines set. You get the picture.
 
 And APIs, by their very nature, transcend a single agile team. API design is, as James Higginbotham has rightly pointed out, a prototypical incremental process. A process that benefits from well-defined increments with clearly formulated milestones to support joint decision making and overall control.
 
@@ -48,9 +48,9 @@ Here's the [LeanUP][leanup] Product Positioning Statement.
 
 List of [References](/LeanUP/References/links.md)
 
-| *License* | Early Access |
-| - | - |
-|Common Criteria:</BR>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | [![LeanUP Logo](/LeanUP/Images/leanupLogo-s.png)](/LeanUP/Overview/leanup.md) |
+| *License* | Early Access | Share |
+| - | - | - |
+|Common Criteria:</BR>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | [![LeanUP Logo](/LeanUP/Images/leanupLogo-s.png)](/LeanUP/Overview/leanup.md) | [Social Media](https://shareopenly.org/share/?url=https://contextaware.nl/mdwiki.html#!/LeanUP/intro.md&text=API%20Design%20First%20Request%20for%20Comment) |
 
 [up]: https://en.wikipedia.org/wiki/Unified_process
 [leanup]: /LeanUP/Overview/leanup.md

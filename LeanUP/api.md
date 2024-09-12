@@ -23,6 +23,6 @@ There you have it. Teams can have full autonomy within the bounds set by the int
 
 APIs done right, in other words, allows you full control over your digital business. That's the core thesis behind [LeanUP](/LeanUP/Overview/leanup.md). Its a minimalistic yet powerful approach to governance. And thats why [API Design](/LeanUP/Capabilities/design.md) is the core capability in the process. And yes, that is 'API' in the broadest sense of the word, from virtualization services all the way up to business components. And yes, that will require a broad set of competences, ranging from enterprise architecture governance to the intrinsics of XML or JSON schema design. That's the exciting world behind the 'API' moniker.
 
-| *License* | Navigate |
-| - | - |
-|Common Criteria:</BR>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | [![LeanUP Logo](/LeanUP/Images/leanupLogo-s.png)](/LeanUP/Overview/leanup.md) |
+| *License* | Navigate | Share |
+| - | - | - |
+|Common Criteria:</BR>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | [![LeanUP Logo](/LeanUP/Images/leanupLogo-s.png)](/LeanUP/Overview/leanup.md) | [Share](https://shareopenly.org/share/?url=https://contextaware.nl/mdwiki.html#!/LeanUP/api.md&text=What\'s%20an%20API\?) |

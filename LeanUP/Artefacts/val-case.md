@@ -2,10 +2,10 @@
 
 ```text
 > First post : 21 June 2024
-> Last edit : 25 June 2024
+> Last edit : 14 August 2024
 ```
 
-An intial [Value Case][self] artefact is a milestone document, marking the end of the [Exploration Stage](/LeanUP/Stages/exploration.md) and the beginning of the [Discovery Stage](/LeanUP/Stages/discovery.md). It has a first estimation of the value and costs for the proposed product development. It helps decide the right things to develop.
+An intial [Value Case][self] artefact is a milestone document, marking the end of the [Exploration Stage](/LeanUP/Stages/exploration.md) and the beginning of the [Discovery Stage](/LeanUP/Stages/discovery.md). It has a first estimation of the value and costs for the proposed product development. It helps decide the right things to develop. It compares to a [Solution Context](https://v5.scaledagileframework.com/solution-context/), with a firm business focus.
 
 ## Questions to Answer
 

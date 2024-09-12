@@ -2,7 +2,7 @@
 
 ```text
 > First post : 26 June 2024
-> Last edit : 8 July 2024
+> Last edit : 13 August 2024
 ```
 
 The Architecture Plan defines the essential guardrails for design and development of API Platforms and Products. The plan drives the synergy across a portfolio of products.
@@ -23,18 +23,18 @@ Key Viewpoints include
 
 Architecture Principles represent meaningful choices that shape the decisions during product design and engineering. Having an unbounded decision space is generally paralysing decision making. It tends to lead to disparate outcomes, which may prove difficult to integrate. Architecture principles constrain the design space, act as guardrails in decision making. It’s not a cookbook, however, different architects will still come to different designs, which is okay.
 
-Contrast principles to best practices. There can be only one ‘best’ practice. It’s self-evident.
+Contrast principles to best practices. There can be only one ‘best’ practice for everyone. Principles, however, may be adopted selectively. It’s self-evident.
 
-Architectural principles, once successfully adopted, are difficult to change. It is engrained in the culture of an orgaization.
+Architectural principles, once successfully adopted across an enterprise, are difficult to change. It is engrained in the culture of the organization. For instance, if you adopt an event-driven architecture style –which in itself represents a coherent set of architecture principles– because real-time data synchronisation is important in a certain domain, it's quite common to adopt it also where it is not technically required, but doesn't hurt either. Harmonization creates strong architectures.
 
 These are the 5 criteria for an Architecture Principle.
 
 | # | Property | Explanation | Example |
 |-|-|-|-|
-| 1. | An imperative statement | Being a directive, the architecture principle leaves no room for doubt. | All service interfaces, without exception, must be designed from the ground up to be externalizable. <sup>[1](#ref1)</sup> |
+| 1. | An imperative statement | Stated as a directive, the architecture principle leaves no room for doubt. | All service interfaces, without exception, must be designed from the ground up to be externalizable. \[i\] |
 | 2. | Debatable | A stated architecture principle is valuable if only it represents a deliberate choice. It doesn't state the obvious. Typically, the opposite statement could also be a useful principle. | Data must always be consistent</BR>versus</BR>Data must be consistent eventually |
 | 3. | Represents an important choice | If a choice is not meaningful, it does not qualify as an architectural principle. | We respect Laws of Nature only. |
-| 4. | Relevance | Architectural principles are 'so what?' proof | ~~Integration middleware must be used only when needed~~ <sup>[2](#ref1)</sup> |
+| 4. | Relevance | Architectural principles are 'so what?' proof | ~~Integration middleware must be used only when needed~~ \[ii\] |
 | 5. | Actionable | An architecture principle helps decide the trade-offs during design and engineering. | Move fast and break things |
 
 ## 3. Target Architecture & Domain Model
@@ -61,6 +61,6 @@ The Architecture Roadmap ensures the sustained fitness of these components to su
 | - | - |
 |Common Criteria</BR>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | [![LeanUP Logo](/LeanUP/Images/leanupLogo-s.png)](/LeanUP/Artefacts/overview.md) |
 
-<a name="ref1">1</a>: [source](/LeanUP/References/api-mandate.md)
+i: From [the API Mandate](/LeanUP/References/api-mandate.md)
 
-<a name="ref2">2</a>: [source](https://www.referentiearchitectuur.nl/index.php/Id-bddb73b5-1e16-55ec-6769-881acf7e4b78)
+ii: From [Reference Architecture](https://www.referentiearchitectuur.nl/index.php/Id-bddb73b5-1e16-55ec-6769-881acf7e4b78) \(in Dutch\)

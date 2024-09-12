@@ -11,7 +11,7 @@ An API Design is the contract between the supplier and the consumer. Just like a
 “Show me your APIs, and I'll tell you what company you are”
 ```
 
-> *Hans "Human" Bot*
+> *Hans "the Human" Bot*
 
 APIs are designed incrementally. The [ADDR](/LeanUP/References/addr.md) is a useful guide for incremental API Design.
 
@@ -47,7 +47,7 @@ Don't reinvent the wheel. There are excellent naming guidelines to be found.
 
 ## Validity
 
-As an API Designer, make sure you are very precise about defining the type and the validity of your message parameters and message bodies. This includes
+As an API Designer, make sure you are very precise about defining the type and the validity of your message parameters and message bodies, by defining strongly typed properties. This includes
 
 - regular expressions for strings
 - minimum and maximum lengths for strings and arrays
@@ -55,10 +55,11 @@ As an API Designer, make sure you are very precise about defining the type and t
 - an enumeration of valid values
 - optionality / nullify
 - default values
+- rejection of additional properties
 
-Add typical example values as an additional hint. Example values must comply to the valitiy requirements as defined. Example values can be used to automate testing of APIs.
+Add typical example values as an additional hint. Example values must comply to the valitiy requirements as defined. Example values may be used to automate testing of APIs.
 
-Reuse of component definitions is highly recommended for consistency.
+Reuse of component definitions is highly recommended for consistency. Note: from Open API v3.1, you can reference definitions in a separate document.
 
 Since changing validity requirements presents a potential [breaking change](/LeanUP/References/hyrums-law.md), don't think too lightly about those definitions.
 

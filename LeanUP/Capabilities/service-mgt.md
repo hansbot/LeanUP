@@ -28,6 +28,7 @@ The main LeanUP deliverable is the [API Client Kit](/Artefacts/client-kit.md). T
 - Monitoring and Availability Management
 - Incident & Problem Management
 - Change & Release Management
+- Service Level Reporting
 
 ### Additional Management Services
 
@@ -68,10 +69,5 @@ The main LeanUP deliverable is the [API Client Kit](/Artefacts/client-kit.md). T
 | *License* | Navigate |
 | - | - |
 |Common Criteria</BR>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) | [![LeanUP Logo](/LeanUP/Images/leanupLogo-s.png)](/LeanUP/Capabilities/overview.md) |
-
->> Manage Developer Experience
->> Engage with Developers
->> Operational Management
->> Service Level Reporting
 
 [pm]: /LeanUP/Artefacts/post-mortem.md

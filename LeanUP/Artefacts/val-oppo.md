@@ -2,7 +2,7 @@
 
 ```text
 > First post : 20 June 2024
-> Last edit : 26 June 2024
+> Last edit : 14 August 2024
 ```
 
 A [Value Opportunity][oppo] is a milestone artefact, required to enter the [Exploration Stage](/LeanUP/Stages/exploration.md). It's typically defined as a research assignment to explore the Value potential. The opportunity may be anything from a high-risk venture to a no-brainer. It might take months or just require a single phone call.
@@ -32,8 +32,8 @@ There may be a number of conditions, including progress reporting, time and reso
 
 ## Research Questions
 
-It is always recommended to specify the research questions that should be discussed during the [Discovery Stage][discovery]
-It is also recommended to exclude questions that are a distraction for this case. After all, when the initiative fails at this stage, the waste should be minimized.
+It is always recommended to specify the research questions that should be discussed during the [Discovery Stage][discovery]. Likewise, specifying assumptions that need validation is a good practice.
+It is also recommended to explicitely exclude questions that are a distraction for this case. Or assumptions that must be treated as undisputed starting points. After all, when the initiative fails at this stage, the waste should be minimized.
 
 The [Value Opportunity][oppo] artefact has a list of typical questions to consider.
 
